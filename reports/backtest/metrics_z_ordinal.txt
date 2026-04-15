@@ -1,0 +1,136 @@
+Holdout ≥ 2022
+τ = 20.0
+mode = z_ordinal
+n_races = 68
+
+Empirical baseline rates (training window only):
+  pole_win_rate     = 0.525
+  persistence_rate  = 0.368
+  leader_win_rate   = 0.408
+
+Metrics:
+                       method  log_loss    brier    top_1    top_3
+           model (analytic A)  1.957122 0.800109 0.426471 0.735294
+        model (Monte-Carlo B)  1.962482 0.801689 0.426471 0.750000
+       baseline: grid-softmax  2.103580 0.826760 0.338235 0.764706
+     baseline: pole-empirical  2.121051 0.722763 0.514706 0.941176
+   baseline: last-race-winner  2.430063 0.817849 0.441176 0.985294
+baseline: championship-leader  2.009695 0.693804 0.602941 0.970588
+
+Reliability bins (model B):
+ bin_lo  bin_hi    n  mean_pred  observed
+    0.0     0.1 1121     0.0312    0.0107
+    0.1     0.2  224     0.1340    0.1964
+    0.2     0.3   14     0.2115    0.8571
+    0.3     0.4    0        NaN       NaN
+    0.4     0.5    0        NaN       NaN
+    0.5     0.6    0        NaN       NaN
+    0.6     0.7    0        NaN       NaN
+    0.7     0.8    0        NaN       NaN
+    0.8     0.9    0        NaN       NaN
+    0.9     1.0    0        NaN       NaN
+
+
+MOST CONFIDENT in correct winner  (top 5 by lowest log-loss)
+------------------------------------------------------------
+2023 R20 São Paulo Grand Prix          (model log-loss = 1.411)
+   Top-3 model picks (by MC P(win)):
+     Max Verstappen          grid= 1   p_win=0.244   finished=P 1  ← WINNER
+     Sergio Pérez            grid= 9   p_win=0.122   finished=P 4
+     Carlos Sainz            grid= 7   p_win=0.109   finished=P 6
+
+2023 R17 Qatar Grand Prix              (model log-loss = 1.507)
+   Top-3 model picks (by MC P(win)):
+     Max Verstappen          grid= 1   p_win=0.222   finished=P 1  ← WINNER
+     Charles Leclerc         grid= 5   p_win=0.114   finished=P 5
+     George Russell          grid= 2   p_win=0.111   finished=P 4
+
+2023 R13 Dutch Grand Prix              (model log-loss = 1.523)
+   Top-3 model picks (by MC P(win)):
+     Max Verstappen          grid= 1   p_win=0.218   finished=P 1  ← WINNER
+     Sergio Pérez            grid= 7   p_win=0.132   finished=P 4
+     Carlos Sainz            grid= 6   p_win=0.110   finished=P 5
+
+2023 R8  Canadian Grand Prix           (model log-loss = 1.530)
+   Top-3 model picks (by MC P(win)):
+     Max Verstappen          grid= 1   p_win=0.217   finished=P 1  ← WINNER
+     Sergio Pérez            grid=12   p_win=0.098   finished=P 6
+     Lewis Hamilton          grid= 3   p_win=0.094   finished=P 3
+
+2023 R22 Abu Dhabi Grand Prix          (model log-loss = 1.541)
+   Top-3 model picks (by MC P(win)):
+     Max Verstappen          grid= 1   p_win=0.214   finished=P 1  ← WINNER
+     Charles Leclerc         grid= 2   p_win=0.146   finished=P 2
+     Sergio Pérez            grid= 9   p_win=0.111   finished=P 4
+
+
+MOST WRONG about the winner  (top 5 by highest log-loss)
+--------------------------------------------------------
+2024 R6  Miami Grand Prix              (model log-loss = 2.834)
+   Top-3 model picks (by MC P(win)):
+     Max Verstappen          grid= 1   p_win=0.179   finished=P 2
+     Sergio Pérez            grid= 4   p_win=0.139   finished=P 4
+     Charles Leclerc         grid= 2   p_win=0.104   finished=P 3
+   Actual winner was NOT in top-3:  Lando Norris  grid= 5   p_win=0.059   (ranked #8 by model)
+
+2022 R14 Belgian Grand Prix            (model log-loss = 2.810)
+   Top-3 model picks (by MC P(win)):
+     Lewis Hamilton          grid= 4   p_win=0.175   finished=P20
+     George Russell          grid= 5   p_win=0.157   finished=P 4
+     Sergio Pérez            grid= 2   p_win=0.132   finished=P 2
+   Actual winner was NOT in top-3:  Max Verstappen  grid=14   p_win=0.060   (ranked #6 by model)
+
+2024 R21 São Paulo Grand Prix          (model log-loss = 2.724)
+   Top-3 model picks (by MC P(win)):
+     George Russell          grid= 2   p_win=0.154   finished=P 4
+     Lando Norris            grid= 1   p_win=0.109   finished=P 6
+     Sergio Pérez            grid=12   p_win=0.096   finished=P11
+   Actual winner was NOT in top-3:  Max Verstappen  grid=17   p_win=0.066   (ranked #5 by model)
+
+2022 R13 Hungarian Grand Prix          (model log-loss = 2.569)
+   Top-3 model picks (by MC P(win)):
+     George Russell          grid= 1   p_win=0.199   finished=P 3
+     Lewis Hamilton          grid= 7   p_win=0.135   finished=P 2
+     Charles Leclerc         grid= 3   p_win=0.100   finished=P 6
+   Actual winner was NOT in top-3:  Max Verstappen  grid=10   p_win=0.077   (ranked #6 by model)
+
+2024 R17 Azerbaijan Grand Prix         (model log-loss = 2.451)
+   Top-3 model picks (by MC P(win)):
+     Sergio Pérez            grid= 4   p_win=0.142   finished=P17
+     Max Verstappen          grid= 6   p_win=0.136   finished=P 5
+     Charles Leclerc         grid= 1   p_win=0.121   finished=P 2
+   Actual winner was NOT in top-3:  Oscar Piastri  grid= 2   p_win=0.086   (ranked #6 by model)
+
+
+RANDOM sample of 5 races (representative)
+-----------------------------------------
+2024 R10 Spanish Grand Prix            (model log-loss = 1.684)
+   Top-3 model picks (by MC P(win)):
+     Max Verstappen          grid= 2   p_win=0.186   finished=P 1  ← WINNER
+     Lewis Hamilton          grid= 3   p_win=0.125   finished=P 3
+     George Russell          grid= 4   p_win=0.102   finished=P 4
+
+2024 R5  Chinese Grand Prix            (model log-loss = 1.698)
+   Top-3 model picks (by MC P(win)):
+     Max Verstappen          grid= 1   p_win=0.183   finished=P 1  ← WINNER
+     Sergio Pérez            grid= 2   p_win=0.165   finished=P 3
+     George Russell          grid= 8   p_win=0.079   finished=P 6
+
+2022 R17 Singapore Grand Prix          (model log-loss = 1.953)
+   Top-3 model picks (by MC P(win)):
+     Lewis Hamilton          grid= 3   p_win=0.188   finished=P 9
+     Sergio Pérez            grid= 2   p_win=0.142   finished=P 1  ← WINNER
+     Charles Leclerc         grid= 1   p_win=0.121   finished=P 2
+
+2022 R12 French Grand Prix             (model log-loss = 2.054)
+   Top-3 model picks (by MC P(win)):
+     Lewis Hamilton          grid= 4   p_win=0.166   finished=P 2
+     George Russell          grid= 6   p_win=0.134   finished=P 3
+     Max Verstappen          grid= 2   p_win=0.128   finished=P 1  ← WINNER
+
+2022 R11 Austrian Grand Prix           (model log-loss = 2.196)
+   Top-3 model picks (by MC P(win)):
+     George Russell          grid= 4   p_win=0.157   finished=P 4
+     Max Verstappen          grid= 1   p_win=0.142   finished=P 2
+     Lewis Hamilton          grid= 8   p_win=0.127   finished=P 3
+   Actual winner was NOT in top-3:  Charles Leclerc  grid= 2   p_win=0.111   (ranked #4 by model)

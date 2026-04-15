@@ -1,0 +1,741 @@
+driverId,circuitId,circuit_mean,circuit_n,overall_mean,overall_n,residual,forename,surname,driver,circuit
+1,1,2.6923076923076925,13,3.644171779141104,326,-0.9518640868334116,Lewis,Hamilton,Lewis Hamilton,Albert Park Grand Prix Circuit
+1,2,3.9,10,3.644171779141104,326,0.2558282208588958,Lewis,Hamilton,Lewis Hamilton,Sepang International Circuit
+1,3,3.7058823529411766,17,3.644171779141104,326,0.0617105738000725,Lewis,Hamilton,Lewis Hamilton,Bahrain International Circuit
+1,4,4.0,17,3.644171779141104,326,0.35582822085889587,Lewis,Hamilton,Lewis Hamilton,Circuit de Barcelona-Catalunya
+1,5,4.428571428571429,7,3.644171779141104,326,0.7843996494303247,Lewis,Hamilton,Lewis Hamilton,Istanbul Park
+1,6,4.588235294117647,17,3.644171779141104,326,0.9440635149765426,Lewis,Hamilton,Lewis Hamilton,Circuit de Monaco
+1,7,2.0833333333333335,12,3.644171779141104,326,-1.5608384458077706,Lewis,Hamilton,Lewis Hamilton,Circuit Gilles Villeneuve
+1,9,2.9473684210526314,19,3.644171779141104,326,-0.6968033580884727,Lewis,Hamilton,Lewis Hamilton,Silverstone Circuit
+1,10,3.1666666666666665,6,3.644171779141104,326,-0.4775051124744376,Lewis,Hamilton,Lewis Hamilton,Hockenheimring
+1,11,2.411764705882353,17,3.644171779141104,326,-1.2324070732587513,Lewis,Hamilton,Lewis Hamilton,Hungaroring
+1,12,5.8,5,3.644171779141104,326,2.1558282208588957,Lewis,Hamilton,Lewis Hamilton,Valencia Street Circuit
+1,13,2.230769230769231,13,3.644171779141104,326,-1.4134025483718733,Lewis,Hamilton,Lewis Hamilton,Circuit de Spa-Francorchamps
+1,14,4.1875,16,3.644171779141104,326,0.5433282208588959,Lewis,Hamilton,Lewis Hamilton,Autodromo Nazionale di Monza
+1,15,3.5,12,3.644171779141104,326,-0.14417177914110413,Lewis,Hamilton,Lewis Hamilton,Marina Bay Street Circuit
+1,17,3.076923076923077,13,3.644171779141104,326,-0.567248702218027,Lewis,Hamilton,Lewis Hamilton,Shanghai International Circuit
+1,18,4.4,15,3.644171779141104,326,0.7558282208588962,Lewis,Hamilton,Lewis Hamilton,Autódromo José Carlos Pace
+1,20,6.8,5,3.644171779141104,326,3.1558282208588957,Lewis,Hamilton,Lewis Hamilton,Nürburgring
+1,21,5.5,4,3.644171779141104,326,1.8558282208588959,Lewis,Hamilton,Lewis Hamilton,Autodromo Enzo e Dino Ferrari
+1,22,3.6153846153846154,13,3.644171779141104,326,-0.02878716375648871,Lewis,Hamilton,Lewis Hamilton,Suzuka Circuit
+1,24,3.857142857142857,14,3.644171779141104,326,0.21297107800175308,Lewis,Hamilton,Lewis Hamilton,Yas Marina Circuit
+1,32,3.0,9,3.644171779141104,326,-0.6441717791411041,Lewis,Hamilton,Lewis Hamilton,Autódromo Hermanos Rodríguez
+1,34,1.5,4,3.644171779141104,326,-2.144171779141104,Lewis,Hamilton,Lewis Hamilton,Circuit Paul Ricard
+1,35,4.75,4,3.644171779141104,326,1.1058282208588959,Lewis,Hamilton,Lewis Hamilton,Korean International Circuit
+1,39,5.0,4,3.644171779141104,326,1.3558282208588959,Lewis,Hamilton,Lewis Hamilton,Circuit Park Zandvoort
+1,69,1.8,10,3.644171779141104,326,-1.844171779141104,Lewis,Hamilton,Lewis Hamilton,Circuit of the Americas
+1,70,3.3333333333333335,12,3.644171779141104,326,-0.31083844580777065,Lewis,Hamilton,Lewis Hamilton,Red Bull Ring
+1,71,1.75,8,3.644171779141104,326,-1.8941717791411041,Lewis,Hamilton,Lewis Hamilton,Sochi Autodrom
+1,73,5.875,8,3.644171779141104,326,2.230828220858896,Lewis,Hamilton,Lewis Hamilton,Baku City Circuit
+1,77,6.25,4,3.644171779141104,326,2.605828220858896,Lewis,Hamilton,Lewis Hamilton,Jeddah Corniche Circuit
+2,1,6.428571428571429,7,8.355072463768115,138,-1.9265010351966865,Nick,Heidfeld,Nick Heidfeld,Albert Park Grand Prix Circuit
+2,2,4.428571428571429,7,8.355072463768115,138,-3.9265010351966865,Nick,Heidfeld,Nick Heidfeld,Sepang International Circuit
+2,3,10.8,5,8.355072463768115,138,2.4449275362318854,Nick,Heidfeld,Nick Heidfeld,Bahrain International Circuit
+2,4,8.666666666666666,9,8.355072463768115,138,0.3115942028985508,Nick,Heidfeld,Nick Heidfeld,Circuit de Barcelona-Catalunya
+2,5,8.2,5,8.355072463768115,138,-0.155072463768116,Nick,Heidfeld,Nick Heidfeld,Istanbul Park
+2,6,8.2,10,8.355072463768115,138,-0.155072463768116,Nick,Heidfeld,Nick Heidfeld,Circuit de Monaco
+2,7,6.2,5,8.355072463768115,138,-2.155072463768115,Nick,Heidfeld,Nick Heidfeld,Circuit Gilles Villeneuve
+2,8,10.444444444444445,9,8.355072463768115,138,2.0893719806763293,Nick,Heidfeld,Nick Heidfeld,Circuit de Nevers Magny-Cours
+2,9,9.4,10,8.355072463768115,138,1.044927536231885,Nick,Heidfeld,Nick Heidfeld,Silverstone Circuit
+2,10,8.6,5,8.355072463768115,138,0.24492753623188435,Nick,Heidfeld,Nick Heidfeld,Hockenheimring
+2,11,7.666666666666667,9,8.355072463768115,138,-0.6884057971014483,Nick,Heidfeld,Nick Heidfeld,Hungaroring
+2,13,6.6,5,8.355072463768115,138,-1.7550724637681157,Nick,Heidfeld,Nick Heidfeld,Circuit de Spa-Francorchamps
+2,14,8.5,8,8.355072463768115,138,0.1449275362318847,Nick,Heidfeld,Nick Heidfeld,Autodromo Nazionale di Monza
+2,17,9.333333333333334,6,8.355072463768115,138,0.9782608695652186,Nick,Heidfeld,Nick Heidfeld,Shanghai International Circuit
+2,18,10.6,5,8.355072463768115,138,2.2449275362318843,Nick,Heidfeld,Nick Heidfeld,Autódromo José Carlos Pace
+2,19,7.25,4,8.355072463768115,138,-1.1050724637681153,Nick,Heidfeld,Nick Heidfeld,Indianapolis Motor Speedway
+2,20,7.571428571428571,7,8.355072463768115,138,-0.7836438923395441,Nick,Heidfeld,Nick Heidfeld,Nürburgring
+2,21,9.2,5,8.355072463768115,138,0.844927536231884,Nick,Heidfeld,Nick Heidfeld,Autodromo Enzo e Dino Ferrari
+2,22,8.571428571428571,7,8.355072463768115,138,0.21635610766045588,Nick,Heidfeld,Nick Heidfeld,Suzuka Circuit
+3,1,4.625,8,6.3559322033898304,177,-1.7309322033898304,Nico,Rosberg,Nico Rosberg,Albert Park Grand Prix Circuit
+3,2,6.888888888888889,9,6.3559322033898304,177,0.5329566854990588,Nico,Rosberg,Nico Rosberg,Sepang International Circuit
+3,3,5.9,10,6.3559322033898304,177,-0.4559322033898301,Nico,Rosberg,Nico Rosberg,Bahrain International Circuit
+3,4,6.777777777777778,9,6.3559322033898304,177,0.42184557438794723,Nico,Rosberg,Nico Rosberg,Circuit de Barcelona-Catalunya
+3,5,6.0,5,6.3559322033898304,177,-0.35593220338983045,Nico,Rosberg,Nico Rosberg,Istanbul Park
+3,6,5.333333333333333,9,6.3559322033898304,177,-1.0225988700564974,Nico,Rosberg,Nico Rosberg,Circuit de Monaco
+3,7,6.333333333333333,9,6.3559322033898304,177,-0.02259887005649741,Nico,Rosberg,Nico Rosberg,Circuit Gilles Villeneuve
+3,9,6.5,10,6.3559322033898304,177,0.14406779661016955,Nico,Rosberg,Nico Rosberg,Silverstone Circuit
+3,10,6.6,5,6.3559322033898304,177,0.2440677966101692,Nico,Rosberg,Nico Rosberg,Hockenheimring
+3,11,8.555555555555555,9,6.3559322033898304,177,2.199623352165725,Nico,Rosberg,Nico Rosberg,Hungaroring
+3,12,7.2,5,6.3559322033898304,177,0.8440677966101697,Nico,Rosberg,Nico Rosberg,Valencia Street Circuit
+3,13,5.8,10,6.3559322033898304,177,-0.5559322033898306,Nico,Rosberg,Nico Rosberg,Circuit de Spa-Francorchamps
+3,14,8.222222222222221,9,6.3559322033898304,177,1.866290018832391,Nico,Rosberg,Nico Rosberg,Autodromo Nazionale di Monza
+3,15,4.875,8,6.3559322033898304,177,-1.4809322033898304,Nico,Rosberg,Nico Rosberg,Marina Bay Street Circuit
+3,17,7.1,10,6.3559322033898304,177,0.7440677966101692,Nico,Rosberg,Nico Rosberg,Shanghai International Circuit
+3,18,5.888888888888889,9,6.3559322033898304,177,-0.46704331450094116,Nico,Rosberg,Nico Rosberg,Autódromo José Carlos Pace
+3,20,6.75,4,6.3559322033898304,177,0.39406779661016955,Nico,Rosberg,Nico Rosberg,Nürburgring
+3,22,5.428571428571429,7,6.3559322033898304,177,-0.9273607748184016,Nico,Rosberg,Nico Rosberg,Suzuka Circuit
+3,24,5.571428571428571,7,6.3559322033898304,177,-0.7845036319612593,Nico,Rosberg,Nico Rosberg,Yas Marina Circuit
+3,69,5.6,5,6.3559322033898304,177,-0.7559322033898308,Nico,Rosberg,Nico Rosberg,Circuit of the Americas
+4,1,5.235294117647059,17,6.4640718562874255,334,-1.2287777386403667,Fernando,Alonso,Fernando Alonso,Albert Park Grand Prix Circuit
+4,2,6.285714285714286,14,6.4640718562874255,334,-0.17835757057313995,Fernando,Alonso,Fernando Alonso,Sepang International Circuit
+4,3,6.8125,16,6.4640718562874255,334,0.34842814371257447,Fernando,Alonso,Fernando Alonso,Bahrain International Circuit
+4,4,6.166666666666667,18,6.4640718562874255,334,-0.29740518962075857,Fernando,Alonso,Fernando Alonso,Circuit de Barcelona-Catalunya
+4,5,6.25,8,6.4640718562874255,334,-0.21407185628742553,Fernando,Alonso,Fernando Alonso,Istanbul Park
+4,6,5.5,16,6.4640718562874255,334,-0.9640718562874255,Fernando,Alonso,Fernando Alonso,Circuit de Monaco
+4,7,6.0,12,6.4640718562874255,334,-0.46407185628742553,Fernando,Alonso,Fernando Alonso,Circuit Gilles Villeneuve
+4,8,6.166666666666667,6,6.4640718562874255,334,-0.29740518962075857,Fernando,Alonso,Fernando Alonso,Circuit de Nevers Magny-Cours
+4,9,7.105263157894737,19,6.4640718562874255,334,0.6411913016073116,Fernando,Alonso,Fernando Alonso,Silverstone Circuit
+4,10,6.2727272727272725,11,6.4640718562874255,334,-0.19134458356015305,Fernando,Alonso,Fernando Alonso,Hockenheimring
+4,11,5.444444444444445,18,6.4640718562874255,334,-1.019627411842981,Fernando,Alonso,Fernando Alonso,Hungaroring
+4,12,4.25,4,6.4640718562874255,334,-2.2140718562874255,Fernando,Alonso,Fernando Alonso,Valencia Street Circuit
+4,13,5.916666666666667,12,6.4640718562874255,334,-0.5474051896207586,Fernando,Alonso,Fernando Alonso,Circuit de Spa-Francorchamps
+4,14,7.4375,16,6.4640718562874255,334,0.9734281437125745,Fernando,Alonso,Fernando Alonso,Autodromo Nazionale di Monza
+4,15,5.0,11,6.4640718562874255,334,-1.4640718562874255,Fernando,Alonso,Fernando Alonso,Marina Bay Street Circuit
+4,17,5.6,15,6.4640718562874255,334,-0.8640718562874259,Fernando,Alonso,Fernando Alonso,Shanghai International Circuit
+4,18,6.105263157894737,19,6.4640718562874255,334,-0.35880869839268836,Fernando,Alonso,Fernando Alonso,Autódromo José Carlos Pace
+4,20,4.444444444444445,9,6.4640718562874255,334,-2.019627411842981,Fernando,Alonso,Fernando Alonso,Nürburgring
+4,21,7.0,6,6.4640718562874255,334,0.5359281437125745,Fernando,Alonso,Fernando Alonso,Autodromo Enzo e Dino Ferrari
+4,22,7.466666666666667,15,6.4640718562874255,334,1.0025948103792413,Fernando,Alonso,Fernando Alonso,Suzuka Circuit
+4,24,8.461538461538462,13,6.4640718562874255,334,1.9974666052510361,Fernando,Alonso,Fernando Alonso,Yas Marina Circuit
+4,32,12.75,4,6.4640718562874255,334,6.2859281437125745,Fernando,Alonso,Fernando Alonso,Autódromo Hermanos Rodríguez
+4,35,3.75,4,6.4640718562874255,334,-2.7140718562874255,Fernando,Alonso,Fernando Alonso,Korean International Circuit
+4,39,6.0,4,6.4640718562874255,334,-0.46407185628742553,Fernando,Alonso,Fernando Alonso,Circuit Park Zandvoort
+4,69,7.142857142857143,7,6.4640718562874255,334,0.6787852865697177,Fernando,Alonso,Fernando Alonso,Circuit of the Americas
+4,70,10.375,8,6.4640718562874255,334,3.9109281437125745,Fernando,Alonso,Fernando Alonso,Red Bull Ring
+4,71,8.6,5,6.4640718562874255,334,2.135928143712574,Fernando,Alonso,Fernando Alonso,Sochi Autodrom
+4,73,6.5,6,6.4640718562874255,334,0.03592814371257447,Fernando,Alonso,Fernando Alonso,Baku City Circuit
+5,2,11.0,4,11.835164835164836,91,-0.8351648351648358,Heikki,Kovalainen,Heikki Kovalainen,Sepang International Circuit
+5,3,11.6,5,11.835164835164836,91,-0.2351648351648361,Heikki,Kovalainen,Heikki Kovalainen,Bahrain International Circuit
+5,5,12.75,4,11.835164835164836,91,0.9148351648351642,Heikki,Kovalainen,Heikki Kovalainen,Istanbul Park
+5,6,12.0,4,11.835164835164836,91,0.16483516483516425,Heikki,Kovalainen,Heikki Kovalainen,Circuit de Monaco
+5,7,11.75,4,11.835164835164836,91,-0.08516483516483575,Heikki,Kovalainen,Heikki Kovalainen,Circuit Gilles Villeneuve
+5,9,11.5,4,11.835164835164836,91,-0.33516483516483575,Heikki,Kovalainen,Heikki Kovalainen,Silverstone Circuit
+5,11,9.0,5,11.835164835164836,91,-2.8351648351648358,Heikki,Kovalainen,Heikki Kovalainen,Hungaroring
+5,12,10.25,4,11.835164835164836,91,-1.5851648351648358,Heikki,Kovalainen,Heikki Kovalainen,Valencia Street Circuit
+5,13,12.0,6,11.835164835164836,91,0.16483516483516425,Heikki,Kovalainen,Heikki Kovalainen,Circuit de Spa-Francorchamps
+5,14,10.0,6,11.835164835164836,91,-1.8351648351648358,Heikki,Kovalainen,Heikki Kovalainen,Autodromo Nazionale di Monza
+5,15,12.8,5,11.835164835164836,91,0.964835164835165,Heikki,Kovalainen,Heikki Kovalainen,Marina Bay Street Circuit
+5,17,13.4,5,11.835164835164836,91,1.5648351648351646,Heikki,Kovalainen,Heikki Kovalainen,Shanghai International Circuit
+5,18,13.0,6,11.835164835164836,91,1.1648351648351642,Heikki,Kovalainen,Heikki Kovalainen,Autódromo José Carlos Pace
+5,22,14.0,4,11.835164835164836,91,2.1648351648351642,Heikki,Kovalainen,Heikki Kovalainen,Suzuka Circuit
+5,24,14.5,4,11.835164835164836,91,2.6648351648351642,Heikki,Kovalainen,Heikki Kovalainen,Yas Marina Circuit
+8,1,5.428571428571429,14,6.23859649122807,285,-0.8100250626566412,Kimi,Räikkönen,Kimi Räikkönen,Albert Park Grand Prix Circuit
+8,2,6.0,10,6.23859649122807,285,-0.23859649122807003,Kimi,Räikkönen,Kimi Räikkönen,Sepang International Circuit
+8,3,5.733333333333333,15,6.23859649122807,285,-0.5052631578947366,Kimi,Räikkönen,Kimi Räikkönen,Bahrain International Circuit
+8,4,6.538461538461538,13,6.23859649122807,285,0.2998650472334683,Kimi,Räikkönen,Kimi Räikkönen,Circuit de Barcelona-Catalunya
+8,5,7.0,6,6.23859649122807,285,0.76140350877193,Kimi,Räikkönen,Kimi Räikkönen,Istanbul Park
+8,6,7.428571428571429,14,6.23859649122807,285,1.1899749373433588,Kimi,Räikkönen,Kimi Räikkönen,Circuit de Monaco
+8,7,6.2,15,6.23859649122807,285,-0.03859649122806985,Kimi,Räikkönen,Kimi Räikkönen,Circuit Gilles Villeneuve
+8,8,3.75,8,6.23859649122807,285,-2.48859649122807,Kimi,Räikkönen,Kimi Räikkönen,Circuit de Nevers Magny-Cours
+8,9,6.277777777777778,18,6.23859649122807,285,0.03918128654970765,Kimi,Räikkönen,Kimi Räikkönen,Silverstone Circuit
+8,10,6.285714285714286,7,6.23859649122807,285,0.04711779448621556,Kimi,Räikkönen,Kimi Räikkönen,Hockenheimring
+8,11,4.625,16,6.23859649122807,285,-1.61359649122807,Kimi,Räikkönen,Kimi Räikkönen,Hungaroring
+8,13,7.3076923076923075,13,6.23859649122807,285,1.0690958164642375,Kimi,Räikkönen,Kimi Räikkönen,Circuit de Spa-Francorchamps
+8,14,6.3125,16,6.23859649122807,285,0.07390350877192997,Kimi,Räikkönen,Kimi Räikkönen,Autodromo Nazionale di Monza
+8,15,6.75,8,6.23859649122807,285,0.51140350877193,Kimi,Räikkönen,Kimi Räikkönen,Marina Bay Street Circuit
+8,17,5.3076923076923075,13,6.23859649122807,285,-0.9309041835357625,Kimi,Räikkönen,Kimi Räikkönen,Shanghai International Circuit
+8,18,5.066666666666666,15,6.23859649122807,285,-1.1719298245614036,Kimi,Räikkönen,Kimi Räikkönen,Autódromo José Carlos Pace
+8,20,7.0,6,6.23859649122807,285,0.76140350877193,Kimi,Räikkönen,Kimi Räikkönen,Nürburgring
+8,21,7.4,5,6.23859649122807,285,1.1614035087719303,Kimi,Räikkönen,Kimi Räikkönen,Autodromo Enzo e Dino Ferrari
+8,22,5.357142857142857,14,6.23859649122807,285,-0.8814536340852133,Kimi,Räikkönen,Kimi Räikkönen,Suzuka Circuit
+8,24,7.625,8,6.23859649122807,285,1.38640350877193,Kimi,Räikkönen,Kimi Räikkönen,Yas Marina Circuit
+8,32,5.0,4,6.23859649122807,285,-1.23859649122807,Kimi,Räikkönen,Kimi Räikkönen,Autódromo Hermanos Rodríguez
+8,69,7.833333333333333,6,6.23859649122807,285,1.594736842105263,Kimi,Räikkönen,Kimi Räikkönen,Circuit of the Americas
+8,70,7.2,10,6.23859649122807,285,0.9614035087719301,Kimi,Räikkönen,Kimi Räikkönen,Red Bull Ring
+8,71,7.75,8,6.23859649122807,285,1.51140350877193,Kimi,Räikkönen,Kimi Räikkönen,Sochi Autodrom
+8,73,8.0,5,6.23859649122807,285,1.76140350877193,Kimi,Räikkönen,Kimi Räikkönen,Baku City Circuit
+9,3,10.8,5,9.423529411764706,85,1.3764705882352946,Robert,Kubica,Robert Kubica,Bahrain International Circuit
+9,4,9.0,5,9.423529411764706,85,-0.42352941176470615,Robert,Kubica,Robert Kubica,Circuit de Barcelona-Catalunya
+9,5,7.4,5,9.423529411764706,85,-2.023529411764706,Robert,Kubica,Robert Kubica,Istanbul Park
+9,6,7.0,4,9.423529411764706,85,-2.423529411764706,Robert,Kubica,Robert Kubica,Circuit de Monaco
+9,11,11.25,4,9.423529411764706,85,1.8264705882352938,Robert,Kubica,Robert Kubica,Hungaroring
+9,13,7.8,5,9.423529411764706,85,-1.6235294117647063,Robert,Kubica,Robert Kubica,Circuit de Spa-Francorchamps
+9,14,8.333333333333334,6,9.423529411764706,85,-1.0901960784313722,Robert,Kubica,Robert Kubica,Autodromo Nazionale di Monza
+9,15,10.5,4,9.423529411764706,85,1.0764705882352938,Robert,Kubica,Robert Kubica,Marina Bay Street Circuit
+9,17,10.8,5,9.423529411764706,85,1.3764705882352946,Robert,Kubica,Robert Kubica,Shanghai International Circuit
+9,18,8.666666666666666,6,9.423529411764706,85,-0.7568627450980401,Robert,Kubica,Robert Kubica,Autódromo José Carlos Pace
+10,4,15.2,5,13.77027027027027,74,1.4297297297297291,Timo,Glock,Timo Glock,Circuit de Barcelona-Catalunya
+10,7,12.0,4,13.77027027027027,74,-1.7702702702702702,Timo,Glock,Timo Glock,Circuit Gilles Villeneuve
+10,9,14.6,5,13.77027027027027,74,0.8297297297297295,Timo,Glock,Timo Glock,Silverstone Circuit
+10,11,12.4,5,13.77027027027027,74,-1.3702702702702698,Timo,Glock,Timo Glock,Hungaroring
+10,12,15.25,4,13.77027027027027,74,1.4797297297297298,Timo,Glock,Timo Glock,Valencia Street Circuit
+10,13,14.0,5,13.77027027027027,74,0.22972972972972983,Timo,Glock,Timo Glock,Circuit de Spa-Francorchamps
+10,14,14.2,5,13.77027027027027,74,0.4297297297297291,Timo,Glock,Timo Glock,Autodromo Nazionale di Monza
+10,17,13.8,5,13.77027027027027,74,0.029729729729730536,Timo,Glock,Timo Glock,Shanghai International Circuit
+10,18,14.25,4,13.77027027027027,74,0.4797297297297298,Timo,Glock,Timo Glock,Autódromo José Carlos Pace
+10,22,16.25,4,13.77027027027027,74,2.47972972972973,Timo,Glock,Timo Glock,Suzuka Circuit
+11,1,11.75,4,11.616666666666667,60,0.13333333333333286,Takuma,Sato,Takuma Sato,Albert Park Grand Prix Circuit
+11,2,13.4,5,11.616666666666667,60,1.7833333333333332,Takuma,Sato,Takuma Sato,Sepang International Circuit
+11,4,10.75,4,11.616666666666667,60,-0.8666666666666671,Takuma,Sato,Takuma Sato,Circuit de Barcelona-Catalunya
+11,9,14.5,4,11.616666666666667,60,2.883333333333333,Takuma,Sato,Takuma Sato,Silverstone Circuit
+11,11,10.4,5,11.616666666666667,60,-1.2166666666666668,Takuma,Sato,Takuma Sato,Hungaroring
+11,14,12.8,5,11.616666666666667,60,1.1833333333333336,Takuma,Sato,Takuma Sato,Autodromo Nazionale di Monza
+11,18,9.4,5,11.616666666666667,60,-2.216666666666667,Takuma,Sato,Takuma Sato,Autódromo José Carlos Pace
+11,22,7.5,4,11.616666666666667,60,-4.116666666666667,Takuma,Sato,Takuma Sato,Suzuka Circuit
+13,1,5.625,8,7.2663755458515285,229,-1.6413755458515285,Felipe,Massa,Felipe Massa,Albert Park Grand Prix Circuit
+13,2,7.857142857142857,14,7.2663755458515285,229,0.5907673112913283,Felipe,Massa,Felipe Massa,Sepang International Circuit
+13,3,7.769230769230769,13,7.2663755458515285,229,0.5028552233792407,Felipe,Massa,Felipe Massa,Bahrain International Circuit
+13,4,7.285714285714286,14,7.2663755458515285,229,0.019338739862757137,Felipe,Massa,Felipe Massa,Circuit de Barcelona-Catalunya
+13,5,4.5,6,7.2663755458515285,229,-2.7663755458515285,Felipe,Massa,Felipe Massa,Istanbul Park
+13,6,7.0,12,7.2663755458515285,229,-0.26637554585152845,Felipe,Massa,Felipe Massa,Circuit de Monaco
+13,7,8.0,10,7.2663755458515285,229,0.7336244541484715,Felipe,Massa,Felipe Massa,Circuit Gilles Villeneuve
+13,8,4.75,4,7.2663755458515285,229,-2.5163755458515285,Felipe,Massa,Felipe Massa,Circuit de Nevers Magny-Cours
+13,9,7.857142857142857,14,7.2663755458515285,229,0.5907673112913283,Felipe,Massa,Felipe Massa,Silverstone Circuit
+13,10,6.714285714285714,7,7.2663755458515285,229,-0.552089831565814,Felipe,Massa,Felipe Massa,Hockenheimring
+13,11,10.0,12,7.2663755458515285,229,2.7336244541484715,Felipe,Massa,Felipe Massa,Hungaroring
+13,12,8.25,4,7.2663755458515285,229,0.9836244541484715,Felipe,Massa,Felipe Massa,Valencia Street Circuit
+13,13,6.5,12,7.2663755458515285,229,-0.7663755458515285,Felipe,Massa,Felipe Massa,Circuit de Spa-Francorchamps
+13,14,6.333333333333333,12,7.2663755458515285,229,-0.9330422125181954,Felipe,Massa,Felipe Massa,Autodromo Nazionale di Monza
+13,15,9.0,8,7.2663755458515285,229,1.7336244541484715,Felipe,Massa,Felipe Massa,Marina Bay Street Circuit
+13,17,7.75,12,7.2663755458515285,229,0.48362445414847155,Felipe,Massa,Felipe Massa,Shanghai International Circuit
+13,18,5.7272727272727275,11,7.2663755458515285,229,-1.539102818578801,Felipe,Massa,Felipe Massa,Autódromo José Carlos Pace
+13,20,6.0,7,7.2663755458515285,229,-1.2663755458515285,Felipe,Massa,Felipe Massa,Nürburgring
+13,21,8.0,4,7.2663755458515285,229,0.7336244541484715,Felipe,Massa,Felipe Massa,Autodromo Enzo e Dino Ferrari
+13,22,8.3,10,7.2663755458515285,229,1.0336244541484723,Felipe,Massa,Felipe Massa,Suzuka Circuit
+13,24,7.375,8,7.2663755458515285,229,0.10862445414847155,Felipe,Massa,Felipe Massa,Yas Marina Circuit
+13,35,5.5,4,7.2663755458515285,229,-1.7663755458515285,Felipe,Massa,Felipe Massa,Korean International Circuit
+13,69,7.4,5,7.2663755458515285,229,0.1336244541484719,Felipe,Massa,Felipe Massa,Circuit of the Americas
+13,70,9.0,4,7.2663755458515285,229,1.7336244541484715,Felipe,Massa,Felipe Massa,Red Bull Ring
+13,71,7.25,4,7.2663755458515285,229,-0.01637554585152845,Felipe,Massa,Felipe Massa,Sochi Autodrom
+14,1,4.6,5,6.721739130434782,115,-2.121739130434783,David,Coulthard,David Coulthard,Albert Park Grand Prix Circuit
+14,2,5.2,5,6.721739130434782,115,-1.5217391304347823,David,Coulthard,David Coulthard,Sepang International Circuit
+14,4,7.375,8,6.721739130434782,115,0.6532608695652176,David,Coulthard,David Coulthard,Circuit de Barcelona-Catalunya
+14,5,10.25,4,6.721739130434782,115,3.5282608695652176,David,Coulthard,David Coulthard,Istanbul Park
+14,6,5.166666666666667,6,6.721739130434782,115,-1.5550724637681155,David,Coulthard,David Coulthard,Circuit de Monaco
+14,7,5.5,6,6.721739130434782,115,-1.2217391304347824,David,Coulthard,David Coulthard,Circuit Gilles Villeneuve
+14,8,6.666666666666667,9,6.721739130434782,115,-0.055072463768115476,David,Coulthard,David Coulthard,Circuit de Nevers Magny-Cours
+14,9,8.428571428571429,7,6.721739130434782,115,1.7068322981366464,David,Coulthard,David Coulthard,Silverstone Circuit
+14,10,6.428571428571429,7,6.721739130434782,115,-0.2931677018633536,David,Coulthard,David Coulthard,Hockenheimring
+14,11,6.5,8,6.721739130434782,115,-0.22173913043478244,David,Coulthard,David Coulthard,Hungaroring
+14,13,5.6,5,6.721739130434782,115,-1.1217391304347828,David,Coulthard,David Coulthard,Circuit de Spa-Francorchamps
+14,14,11.2,5,6.721739130434782,115,4.478260869565217,David,Coulthard,David Coulthard,Autodromo Nazionale di Monza
+14,17,9.0,5,6.721739130434782,115,2.2782608695652176,David,Coulthard,David Coulthard,Shanghai International Circuit
+14,18,5.6,5,6.721739130434782,115,-1.1217391304347828,David,Coulthard,David Coulthard,Autódromo José Carlos Pace
+14,19,5.0,5,6.721739130434782,115,-1.7217391304347824,David,Coulthard,David Coulthard,Indianapolis Motor Speedway
+14,20,6.0,5,6.721739130434782,115,-0.7217391304347824,David,Coulthard,David Coulthard,Nürburgring
+14,21,6.5,6,6.721739130434782,115,-0.22173913043478244,David,Coulthard,David Coulthard,Autodromo Enzo e Dino Ferrari
+14,22,3.75,4,6.721739130434782,115,-2.9717391304347824,David,Coulthard,David Coulthard,Suzuka Circuit
+14,70,3.5,4,6.721739130434782,115,-3.2217391304347824,David,Coulthard,David Coulthard,Red Bull Ring
+15,1,7.666666666666667,6,9.517241379310345,145,-1.8505747126436782,Jarno,Trulli,Jarno Trulli,Albert Park Grand Prix Circuit
+15,2,7.3,10,9.517241379310345,145,-2.2172413793103454,Jarno,Trulli,Jarno Trulli,Sepang International Circuit
+15,3,7.857142857142857,7,9.517241379310345,145,-1.6600985221674884,Jarno,Trulli,Jarno Trulli,Bahrain International Circuit
+15,4,9.444444444444445,9,9.517241379310345,145,-0.07279693486590055,Jarno,Trulli,Jarno Trulli,Circuit de Barcelona-Catalunya
+15,5,10.5,6,9.517241379310345,145,0.9827586206896548,Jarno,Trulli,Jarno Trulli,Istanbul Park
+15,6,10.7,10,9.517241379310345,145,1.182758620689654,Jarno,Trulli,Jarno Trulli,Circuit de Monaco
+15,7,8.666666666666666,6,9.517241379310345,145,-0.8505747126436791,Jarno,Trulli,Jarno Trulli,Circuit Gilles Villeneuve
+15,8,4.6,5,9.517241379310345,145,-4.9172413793103456,Jarno,Trulli,Jarno Trulli,Circuit de Nevers Magny-Cours
+15,9,8.857142857142858,7,9.517241379310345,145,-0.6600985221674875,Jarno,Trulli,Jarno Trulli,Silverstone Circuit
+15,10,8.833333333333334,6,9.517241379310345,145,-0.6839080459770113,Jarno,Trulli,Jarno Trulli,Hockenheimring
+15,11,8.666666666666666,9,9.517241379310345,145,-0.8505747126436791,Jarno,Trulli,Jarno Trulli,Hungaroring
+15,12,14.75,4,9.517241379310345,145,5.232758620689655,Jarno,Trulli,Jarno Trulli,Valencia Street Circuit
+15,13,13.8,5,9.517241379310345,145,4.2827586206896555,Jarno,Trulli,Jarno Trulli,Circuit de Spa-Francorchamps
+15,14,9.75,8,9.517241379310345,145,0.2327586206896548,Jarno,Trulli,Jarno Trulli,Autodromo Nazionale di Monza
+15,18,10.555555555555555,9,9.517241379310345,145,1.0383141762452102,Jarno,Trulli,Jarno Trulli,Autódromo José Carlos Pace
+15,19,4.5,6,9.517241379310345,145,-5.017241379310345,Jarno,Trulli,Jarno Trulli,Indianapolis Motor Speedway
+15,20,9.833333333333334,6,9.517241379310345,145,0.31609195402298873,Jarno,Trulli,Jarno Trulli,Nürburgring
+15,21,8.666666666666666,6,9.517241379310345,145,-0.8505747126436791,Jarno,Trulli,Jarno Trulli,Autodromo Enzo e Dino Ferrari
+15,22,9.625,8,9.517241379310345,145,0.1077586206896548,Jarno,Trulli,Jarno Trulli,Suzuka Circuit
+16,1,10.6,5,12.47191011235955,89,-1.8719101123595507,Adrian,Sutil,Adrian Sutil,Albert Park Grand Prix Circuit
+16,3,15.0,5,12.47191011235955,89,2.5280898876404496,Adrian,Sutil,Adrian Sutil,Bahrain International Circuit
+16,4,12.6,5,12.47191011235955,89,0.12808988764044926,Adrian,Sutil,Adrian Sutil,Circuit de Barcelona-Catalunya
+16,5,15.2,5,12.47191011235955,89,2.728089887640449,Adrian,Sutil,Adrian Sutil,Istanbul Park
+16,6,8.5,4,12.47191011235955,89,-3.9719101123595504,Adrian,Sutil,Adrian Sutil,Circuit de Monaco
+16,9,11.2,5,12.47191011235955,89,-1.271910112359551,Adrian,Sutil,Adrian Sutil,Silverstone Circuit
+16,13,10.428571428571429,7,12.47191011235955,89,-2.0433386837881216,Adrian,Sutil,Adrian Sutil,Circuit de Spa-Francorchamps
+16,14,14.833333333333334,6,12.47191011235955,89,2.3614232209737835,Adrian,Sutil,Adrian Sutil,Autodromo Nazionale di Monza
+16,18,12.6,5,12.47191011235955,89,0.12808988764044926,Adrian,Sutil,Adrian Sutil,Autódromo José Carlos Pace
+16,22,14.75,4,12.47191011235955,89,2.2780898876404496,Adrian,Sutil,Adrian Sutil,Suzuka Circuit
+16,24,12.8,5,12.47191011235955,89,0.32808988764045033,Adrian,Sutil,Adrian Sutil,Yas Marina Circuit
+17,1,7.375,8,6.6,160,0.7750000000000004,Mark,Webber,Mark Webber,Albert Park Grand Prix Circuit
+17,2,5.0,7,6.6,160,-1.5999999999999996,Mark,Webber,Mark Webber,Sepang International Circuit
+17,3,7.125,8,6.6,160,0.5250000000000004,Mark,Webber,Mark Webber,Bahrain International Circuit
+17,4,6.3,10,6.6,160,-0.2999999999999998,Mark,Webber,Mark Webber,Circuit de Barcelona-Catalunya
+17,5,4.8,5,6.6,160,-1.7999999999999998,Mark,Webber,Mark Webber,Istanbul Park
+17,6,4.0,8,6.6,160,-2.5999999999999996,Mark,Webber,Mark Webber,Circuit de Monaco
+17,7,7.5,10,6.6,160,0.9000000000000004,Mark,Webber,Mark Webber,Circuit Gilles Villeneuve
+17,8,8.833333333333334,6,6.6,160,2.2333333333333343,Mark,Webber,Mark Webber,Circuit de Nevers Magny-Cours
+17,9,5.777777777777778,9,6.6,160,-0.822222222222222,Mark,Webber,Mark Webber,Silverstone Circuit
+17,10,7.75,4,6.6,160,1.1500000000000004,Mark,Webber,Mark Webber,Hockenheimring
+17,11,7.090909090909091,11,6.6,160,0.4909090909090912,Mark,Webber,Mark Webber,Hungaroring
+17,12,7.0,4,6.6,160,0.40000000000000036,Mark,Webber,Mark Webber,Valencia Street Circuit
+17,13,5.375,8,6.6,160,-1.2249999999999996,Mark,Webber,Mark Webber,Circuit de Spa-Francorchamps
+17,14,9.555555555555555,9,6.6,160,2.9555555555555557,Mark,Webber,Mark Webber,Autodromo Nazionale di Monza
+17,15,8.0,4,6.6,160,1.4000000000000004,Mark,Webber,Mark Webber,Marina Bay Street Circuit
+17,17,7.333333333333333,9,6.6,160,0.7333333333333334,Mark,Webber,Mark Webber,Shanghai International Circuit
+17,18,4.875,8,6.6,160,-1.7249999999999996,Mark,Webber,Mark Webber,Autódromo José Carlos Pace
+17,20,6.0,7,6.6,160,-0.5999999999999996,Mark,Webber,Mark Webber,Nürburgring
+17,21,9.25,4,6.6,160,2.6500000000000004,Mark,Webber,Mark Webber,Autodromo Enzo e Dino Ferrari
+17,22,7.375,8,6.6,160,0.7750000000000004,Mark,Webber,Mark Webber,Suzuka Circuit
+17,24,4.0,4,6.6,160,-2.5999999999999996,Mark,Webber,Mark Webber,Yas Marina Circuit
+18,1,7.538461538461538,13,7.423868312757202,243,0.11459322570433628,Jenson,Button,Jenson Button,Albert Park Grand Prix Circuit
+18,2,7.642857142857143,14,7.423868312757202,243,0.2189888300999412,Jenson,Button,Jenson Button,Sepang International Circuit
+18,3,8.571428571428571,7,7.423868312757202,243,1.1475602586713691,Jenson,Button,Jenson Button,Bahrain International Circuit
+18,4,9.1875,16,7.423868312757202,243,1.763631687242798,Jenson,Button,Jenson Button,Circuit de Barcelona-Catalunya
+18,5,6.0,7,7.423868312757202,243,-1.423868312757202,Jenson,Button,Jenson Button,Istanbul Park
+18,6,7.583333333333333,12,7.423868312757202,243,0.159465020576131,Jenson,Button,Jenson Button,Circuit de Monaco
+18,7,8.4,10,7.423868312757202,243,0.9761316872427983,Jenson,Button,Jenson Button,Circuit Gilles Villeneuve
+18,8,7.833333333333333,6,7.423868312757202,243,0.409465020576131,Jenson,Button,Jenson Button,Circuit de Nevers Magny-Cours
+18,9,8.307692307692308,13,7.423868312757202,243,0.8838239949351063,Jenson,Button,Jenson Button,Silverstone Circuit
+18,10,6.0,11,7.423868312757202,243,-1.423868312757202,Jenson,Button,Jenson Button,Hockenheimring
+18,11,6.923076923076923,13,7.423868312757202,243,-0.5007913896802787,Jenson,Button,Jenson Button,Hungaroring
+18,12,7.4,5,7.423868312757202,243,-0.023868312757201693,Jenson,Button,Jenson Button,Valencia Street Circuit
+18,13,6.625,8,7.423868312757202,243,-0.798868312757202,Jenson,Button,Jenson Button,Circuit de Spa-Francorchamps
+18,14,7.230769230769231,13,7.423868312757202,243,-0.1930990819879712,Jenson,Button,Jenson Button,Autodromo Nazionale di Monza
+18,15,4.833333333333333,6,7.423868312757202,243,-2.590534979423869,Jenson,Button,Jenson Button,Marina Bay Street Circuit
+18,17,6.769230769230769,13,7.423868312757202,243,-0.6546375435264329,Jenson,Button,Jenson Button,Shanghai International Circuit
+18,18,6.785714285714286,14,7.423868312757202,243,-0.6381540270429165,Jenson,Button,Jenson Button,Autódromo José Carlos Pace
+18,20,7.375,8,7.423868312757202,243,-0.04886831275720205,Jenson,Button,Jenson Button,Nürburgring
+18,21,6.8,5,7.423868312757202,243,-0.6238683127572022,Jenson,Button,Jenson Button,Autodromo Enzo e Dino Ferrari
+18,22,6.6,15,7.423868312757202,243,-0.8238683127572024,Jenson,Button,Jenson Button,Suzuka Circuit
+18,24,6.0,7,7.423868312757202,243,-1.423868312757202,Jenson,Button,Jenson Button,Yas Marina Circuit
+18,69,8.4,5,7.423868312757202,243,0.9761316872427983,Jenson,Button,Jenson Button,Circuit of the Americas
+18,70,6.6,5,7.423868312757202,243,-0.8238683127572024,Jenson,Button,Jenson Button,Red Bull Ring
+20,1,3.4444444444444446,9,5.282442748091603,262,-1.8379983036471588,Sebastian,Vettel,Sebastian Vettel,Albert Park Grand Prix Circuit
+20,2,4.625,8,5.282442748091603,262,-0.6574427480916034,Sebastian,Vettel,Sebastian Vettel,Sepang International Circuit
+20,3,5.5,12,5.282442748091603,262,0.2175572519083966,Sebastian,Vettel,Sebastian Vettel,Bahrain International Circuit
+20,4,4.928571428571429,14,5.282442748091603,262,-0.3538713195201746,Sebastian,Vettel,Sebastian Vettel,Circuit de Barcelona-Catalunya
+20,5,10.166666666666666,6,5.282442748091603,262,4.884223918575063,Sebastian,Vettel,Sebastian Vettel,Istanbul Park
+20,6,3.3333333333333335,12,5.282442748091603,262,-1.94910941475827,Sebastian,Vettel,Sebastian Vettel,Circuit de Monaco
+20,7,4.0,12,5.282442748091603,262,-1.2824427480916034,Sebastian,Vettel,Sebastian Vettel,Circuit Gilles Villeneuve
+20,9,6.538461538461538,13,5.282442748091603,262,1.256018790369935,Sebastian,Vettel,Sebastian Vettel,Silverstone Circuit
+20,10,4.5,6,5.282442748091603,262,-0.7824427480916034,Sebastian,Vettel,Sebastian Vettel,Hockenheimring
+20,11,4.769230769230769,13,5.282442748091603,262,-0.5132119788608343,Sebastian,Vettel,Sebastian Vettel,Hungaroring
+20,13,5.533333333333333,15,5.282442748091603,262,0.2508905852417298,Sebastian,Vettel,Sebastian Vettel,Circuit de Spa-Francorchamps
+20,14,7.0,14,5.282442748091603,262,1.7175572519083966,Sebastian,Vettel,Sebastian Vettel,Autodromo Nazionale di Monza
+20,15,2.8333333333333335,12,5.282442748091603,262,-2.44910941475827,Sebastian,Vettel,Sebastian Vettel,Marina Bay Street Circuit
+20,17,4.153846153846154,13,5.282442748091603,262,-1.1285965942454492,Sebastian,Vettel,Sebastian Vettel,Shanghai International Circuit
+20,18,5.5,14,5.282442748091603,262,0.2175572519083966,Sebastian,Vettel,Sebastian Vettel,Autódromo José Carlos Pace
+20,20,4.5,4,5.282442748091603,262,-0.7824427480916034,Sebastian,Vettel,Sebastian Vettel,Nürburgring
+20,22,2.8181818181818183,11,5.282442748091603,262,-2.464260929909785,Sebastian,Vettel,Sebastian Vettel,Suzuka Circuit
+20,24,5.076923076923077,13,5.282442748091603,262,-0.20551967116852676,Sebastian,Vettel,Sebastian Vettel,Yas Marina Circuit
+20,32,5.666666666666667,6,5.282442748091603,262,0.38422391857506355,Sebastian,Vettel,Sebastian Vettel,Autódromo Hermanos Rodríguez
+20,34,7.5,4,5.282442748091603,262,2.2175572519083966,Sebastian,Vettel,Sebastian Vettel,Circuit Paul Ricard
+20,69,4.555555555555555,9,5.282442748091603,262,-0.726887192536048,Sebastian,Vettel,Sebastian Vettel,Circuit of the Americas
+20,70,8.625,8,5.282442748091603,262,3.3425572519083966,Sebastian,Vettel,Sebastian Vettel,Red Bull Ring
+20,71,6.666666666666667,6,5.282442748091603,262,1.3842239185750635,Sebastian,Vettel,Sebastian Vettel,Sochi Autodrom
+20,73,3.5,6,5.282442748091603,262,-1.7824427480916034,Sebastian,Vettel,Sebastian Vettel,Baku City Circuit
+21,1,7.142857142857143,7,8.544,125,-1.4011428571428572,Giancarlo,Fisichella,Giancarlo Fisichella,Albert Park Grand Prix Circuit
+21,2,10.0,7,8.544,125,1.4559999999999995,Giancarlo,Fisichella,Giancarlo Fisichella,Sepang International Circuit
+21,3,11.5,4,8.544,125,2.9559999999999995,Giancarlo,Fisichella,Giancarlo Fisichella,Bahrain International Circuit
+21,4,8.875,8,8.544,125,0.3309999999999995,Giancarlo,Fisichella,Giancarlo Fisichella,Circuit de Barcelona-Catalunya
+21,6,7.0,7,8.544,125,-1.5440000000000005,Giancarlo,Fisichella,Giancarlo Fisichella,Circuit de Monaco
+21,7,4.0,4,8.544,125,-4.5440000000000005,Giancarlo,Fisichella,Giancarlo Fisichella,Circuit Gilles Villeneuve
+21,8,9.714285714285714,7,8.544,125,1.170285714285713,Giancarlo,Fisichella,Giancarlo Fisichella,Circuit de Nevers Magny-Cours
+21,9,7.375,8,8.544,125,-1.1690000000000005,Giancarlo,Fisichella,Giancarlo Fisichella,Silverstone Circuit
+21,10,8.666666666666666,6,8.544,125,0.12266666666666559,Giancarlo,Fisichella,Giancarlo Fisichella,Hockenheimring
+21,11,10.666666666666666,6,8.544,125,2.1226666666666656,Giancarlo,Fisichella,Giancarlo Fisichella,Hungaroring
+21,13,6.75,4,8.544,125,-1.7940000000000005,Giancarlo,Fisichella,Giancarlo Fisichella,Circuit de Spa-Francorchamps
+21,14,8.333333333333334,9,8.544,125,-0.21066666666666656,Giancarlo,Fisichella,Giancarlo Fisichella,Autodromo Nazionale di Monza
+21,17,9.333333333333334,6,8.544,125,0.7893333333333334,Giancarlo,Fisichella,Giancarlo Fisichella,Shanghai International Circuit
+21,18,7.25,8,8.544,125,-1.2940000000000005,Giancarlo,Fisichella,Giancarlo Fisichella,Autódromo José Carlos Pace
+21,19,7.166666666666667,6,8.544,125,-1.3773333333333335,Giancarlo,Fisichella,Giancarlo Fisichella,Indianapolis Motor Speedway
+21,20,8.375,8,8.544,125,-0.16900000000000048,Giancarlo,Fisichella,Giancarlo Fisichella,Nürburgring
+21,21,10.75,4,8.544,125,2.2059999999999995,Giancarlo,Fisichella,Giancarlo Fisichella,Autodromo Enzo e Dino Ferrari
+21,22,9.333333333333334,6,8.544,125,0.7893333333333334,Giancarlo,Fisichella,Giancarlo Fisichella,Suzuka Circuit
+22,1,4.625,8,7.0852272727272725,176,-2.4602272727272725,Rubens,Barrichello,Rubens Barrichello,Albert Park Grand Prix Circuit
+22,2,6.888888888888889,9,7.0852272727272725,176,-0.1963383838383832,Rubens,Barrichello,Rubens Barrichello,Sepang International Circuit
+22,3,9.285714285714286,7,7.0852272727272725,176,2.200487012987014,Rubens,Barrichello,Rubens Barrichello,Bahrain International Circuit
+22,4,6.888888888888889,9,7.0852272727272725,176,-0.1963383838383832,Rubens,Barrichello,Rubens Barrichello,Circuit de Barcelona-Catalunya
+22,5,13.0,6,7.0852272727272725,176,5.9147727272727275,Rubens,Barrichello,Rubens Barrichello,Istanbul Park
+22,6,5.545454545454546,11,7.0852272727272725,176,-1.5397727272727266,Rubens,Barrichello,Rubens Barrichello,Circuit de Monaco
+22,7,6.333333333333333,9,7.0852272727272725,176,-0.7518939393939394,Rubens,Barrichello,Rubens Barrichello,Circuit Gilles Villeneuve
+22,8,7.142857142857143,7,7.0852272727272725,176,0.05762987012987075,Rubens,Barrichello,Rubens Barrichello,Circuit de Nevers Magny-Cours
+22,9,5.363636363636363,11,7.0852272727272725,176,-1.7215909090909092,Rubens,Barrichello,Rubens Barrichello,Silverstone Circuit
+22,10,6.833333333333333,6,7.0852272727272725,176,-0.25189393939393945,Rubens,Barrichello,Rubens Barrichello,Hockenheimring
+22,11,8.181818181818182,11,7.0852272727272725,176,1.0965909090909092,Rubens,Barrichello,Rubens Barrichello,Hungaroring
+22,12,8.25,4,7.0852272727272725,176,1.1647727272727275,Rubens,Barrichello,Rubens Barrichello,Valencia Street Circuit
+22,13,7.285714285714286,7,7.0852272727272725,176,0.2004870129870131,Rubens,Barrichello,Rubens Barrichello,Circuit de Spa-Francorchamps
+22,14,6.818181818181818,11,7.0852272727272725,176,-0.26704545454545414,Rubens,Barrichello,Rubens Barrichello,Autodromo Nazionale di Monza
+22,17,9.25,8,7.0852272727272725,176,2.1647727272727275,Rubens,Barrichello,Rubens Barrichello,Shanghai International Circuit
+22,18,9.571428571428571,7,7.0852272727272725,176,2.4862012987012987,Rubens,Barrichello,Rubens Barrichello,Autódromo José Carlos Pace
+22,19,4.666666666666667,6,7.0852272727272725,176,-2.4185606060606055,Rubens,Barrichello,Rubens Barrichello,Indianapolis Motor Speedway
+22,20,4.444444444444445,9,7.0852272727272725,176,-2.640782828282828,Rubens,Barrichello,Rubens Barrichello,Nürburgring
+22,21,4.666666666666667,6,7.0852272727272725,176,-2.4185606060606055,Rubens,Barrichello,Rubens Barrichello,Autodromo Enzo e Dino Ferrari
+22,22,7.555555555555555,9,7.0852272727272725,176,0.4703282828282829,Rubens,Barrichello,Rubens Barrichello,Suzuka Circuit
+22,70,2.75,4,7.0852272727272725,176,-4.3352272727272725,Rubens,Barrichello,Rubens Barrichello,Red Bull Ring
+23,1,6.333333333333333,6,6.468085106382978,94,-0.13475177304964525,Ralf,Schumacher,Ralf Schumacher,Albert Park Grand Prix Circuit
+23,2,6.333333333333333,6,6.468085106382978,94,-0.13475177304964525,Ralf,Schumacher,Ralf Schumacher,Sepang International Circuit
+23,3,9.25,4,6.468085106382978,94,2.7819148936170217,Ralf,Schumacher,Ralf Schumacher,Bahrain International Circuit
+23,4,6.0,5,6.468085106382978,94,-0.4680851063829783,Ralf,Schumacher,Ralf Schumacher,Circuit de Barcelona-Catalunya
+23,6,7.833333333333333,6,6.468085106382978,94,1.3652482269503547,Ralf,Schumacher,Ralf Schumacher,Circuit de Monaco
+23,7,6.333333333333333,6,6.468085106382978,94,-0.13475177304964525,Ralf,Schumacher,Ralf Schumacher,Circuit Gilles Villeneuve
+23,8,4.857142857142857,7,6.468085106382978,94,-1.6109422492401215,Ralf,Schumacher,Ralf Schumacher,Circuit de Nevers Magny-Cours
+23,9,7.25,4,6.468085106382978,94,0.7819148936170217,Ralf,Schumacher,Ralf Schumacher,Silverstone Circuit
+23,10,5.2,5,6.468085106382978,94,-1.2680851063829781,Ralf,Schumacher,Ralf Schumacher,Hockenheimring
+23,11,4.428571428571429,7,6.468085106382978,94,-2.0395136778115495,Ralf,Schumacher,Ralf Schumacher,Hungaroring
+23,13,6.4,5,6.468085106382978,94,-0.06808510638297793,Ralf,Schumacher,Ralf Schumacher,Circuit de Spa-Francorchamps
+23,14,8.4,5,6.468085106382978,94,1.931914893617022,Ralf,Schumacher,Ralf Schumacher,Autodromo Nazionale di Monza
+23,18,6.333333333333333,6,6.468085106382978,94,-0.13475177304964525,Ralf,Schumacher,Ralf Schumacher,Autódromo José Carlos Pace
+23,21,5.5,6,6.468085106382978,94,-0.9680851063829783,Ralf,Schumacher,Ralf Schumacher,Autodromo Enzo e Dino Ferrari
+23,22,7.666666666666667,6,6.468085106382978,94,1.1985815602836887,Ralf,Schumacher,Ralf Schumacher,Suzuka Circuit
+24,9,14.5,4,13.818181818181818,55,0.6818181818181817,Vitantonio,Liuzzi,Vitantonio Liuzzi,Silverstone Circuit
+30,1,3.0,6,4.3533333333333335,150,-1.3533333333333335,Michael,Schumacher,Michael Schumacher,Albert Park Grand Prix Circuit
+30,2,4.888888888888889,9,4.3533333333333335,150,0.5355555555555558,Michael,Schumacher,Michael Schumacher,Sepang International Circuit
+30,3,4.75,4,4.3533333333333335,150,0.3966666666666665,Michael,Schumacher,Michael Schumacher,Bahrain International Circuit
+30,4,2.625,8,4.3533333333333335,150,-1.7283333333333335,Michael,Schumacher,Michael Schumacher,Circuit de Barcelona-Catalunya
+30,6,5.0,6,4.3533333333333335,150,0.6466666666666665,Michael,Schumacher,Michael Schumacher,Circuit de Monaco
+30,7,2.7777777777777777,9,4.3533333333333335,150,-1.5755555555555558,Michael,Schumacher,Michael Schumacher,Circuit Gilles Villeneuve
+30,8,1.6666666666666667,6,4.3533333333333335,150,-2.6866666666666665,Michael,Schumacher,Michael Schumacher,Circuit de Nevers Magny-Cours
+30,9,4.4,10,4.3533333333333335,150,0.046666666666666856,Michael,Schumacher,Michael Schumacher,Silverstone Circuit
+30,10,4.428571428571429,7,4.3533333333333335,150,0.07523809523809533,Michael,Schumacher,Michael Schumacher,Hockenheimring
+30,11,4.375,8,4.3533333333333335,150,0.0216666666666665,Michael,Schumacher,Michael Schumacher,Hungaroring
+30,13,3.5714285714285716,7,4.3533333333333335,150,-0.7819047619047619,Michael,Schumacher,Michael Schumacher,Circuit de Spa-Francorchamps
+30,14,4.1,10,4.3533333333333335,150,-0.25333333333333385,Michael,Schumacher,Michael Schumacher,Autodromo Nazionale di Monza
+30,17,7.75,4,4.3533333333333335,150,3.3966666666666665,Michael,Schumacher,Michael Schumacher,Shanghai International Circuit
+30,18,5.333333333333333,9,4.3533333333333335,150,0.9799999999999995,Michael,Schumacher,Michael Schumacher,Autódromo José Carlos Pace
+30,19,1.2857142857142858,7,4.3533333333333335,150,-3.067619047619048,Michael,Schumacher,Michael Schumacher,Indianapolis Motor Speedway
+30,20,3.0,8,4.3533333333333335,150,-1.3533333333333335,Michael,Schumacher,Michael Schumacher,Nürburgring
+30,21,1.1666666666666667,6,4.3533333333333335,150,-3.1866666666666665,Michael,Schumacher,Michael Schumacher,Autodromo Enzo e Dino Ferrari
+30,22,4.666666666666667,9,4.3533333333333335,150,0.31333333333333346,Michael,Schumacher,Michael Schumacher,Suzuka Circuit
+31,1,3.75,4,4.209677419354839,62,-0.45967741935483897,Juan,Pablo Montoya,Juan Pablo Montoya,Albert Park Grand Prix Circuit
+31,2,4.8,5,4.209677419354839,62,0.5903225806451609,Juan,Pablo Montoya,Juan Pablo Montoya,Sepang International Circuit
+31,4,3.75,4,4.209677419354839,62,-0.45967741935483897,Juan,Pablo Montoya,Juan Pablo Montoya,Circuit de Barcelona-Catalunya
+31,6,3.0,4,4.209677419354839,62,-1.209677419354839,Juan,Pablo Montoya,Juan Pablo Montoya,Circuit de Monaco
+31,9,3.5,6,4.209677419354839,62,-0.709677419354839,Juan,Pablo Montoya,Juan Pablo Montoya,Silverstone Circuit
+31,10,2.5,4,4.209677419354839,62,-1.709677419354839,Juan,Pablo Montoya,Juan Pablo Montoya,Hockenheimring
+31,11,6.5,4,4.209677419354839,62,2.290322580645161,Juan,Pablo Montoya,Juan Pablo Montoya,Hungaroring
+31,14,2.25,4,4.209677419354839,62,-1.959677419354839,Juan,Pablo Montoya,Juan Pablo Montoya,Autodromo Nazionale di Monza
+31,20,4.75,4,4.209677419354839,62,0.540322580645161,Juan,Pablo Montoya,Juan Pablo Montoya,Nürburgring
+31,21,4.25,4,4.209677419354839,62,0.04032258064516103,Juan,Pablo Montoya,Juan Pablo Montoya,Autodromo Enzo e Dino Ferrari
+35,1,8.0,4,8.701492537313433,67,-0.7014925373134329,Jacques,Villeneuve,Jacques Villeneuve,Albert Park Grand Prix Circuit
+35,6,9.0,4,8.701492537313433,67,0.29850746268656714,Jacques,Villeneuve,Jacques Villeneuve,Circuit de Monaco
+35,8,8.0,4,8.701492537313433,67,-0.7014925373134329,Jacques,Villeneuve,Jacques Villeneuve,Circuit de Nevers Magny-Cours
+35,9,10.0,6,8.701492537313433,67,1.2985074626865671,Jacques,Villeneuve,Jacques Villeneuve,Silverstone Circuit
+35,10,8.75,4,8.701492537313433,67,0.04850746268656714,Jacques,Villeneuve,Jacques Villeneuve,Hockenheimring
+35,13,7.25,4,8.701492537313433,67,-1.4514925373134329,Jacques,Villeneuve,Jacques Villeneuve,Circuit de Spa-Francorchamps
+35,14,8.0,4,8.701492537313433,67,-0.7014925373134329,Jacques,Villeneuve,Jacques Villeneuve,Autodromo Nazionale di Monza
+35,18,9.0,5,8.701492537313433,67,0.29850746268656714,Jacques,Villeneuve,Jacques Villeneuve,Autódromo José Carlos Pace
+35,20,10.5,4,8.701492537313433,67,1.7985074626865671,Jacques,Villeneuve,Jacques Villeneuve,Nürburgring
+35,21,7.0,4,8.701492537313433,67,-1.7014925373134329,Jacques,Villeneuve,Jacques Villeneuve,Autodromo Enzo e Dino Ferrari
+35,22,9.5,4,8.701492537313433,67,0.7985074626865671,Jacques,Villeneuve,Jacques Villeneuve,Suzuka Circuit
+35,70,8.5,4,8.701492537313433,67,-0.20149253731343286,Jacques,Villeneuve,Jacques Villeneuve,Red Bull Ring
+37,11,11.833333333333334,6,12.450980392156863,51,-0.617647058823529,Pedro,de la Rosa,Pedro de la Rosa,Hungaroring
+37,18,10.25,4,12.450980392156863,51,-2.200980392156863,Pedro,de la Rosa,Pedro de la Rosa,Autódromo José Carlos Pace
+49,19,7.25,4,8.575757575757576,33,-1.3257575757575761,Heinz-Harald,Frentzen,Heinz-Harald Frentzen,Indianapolis Motor Speedway
+154,2,10.25,4,11.067164179104477,134,-0.817164179104477,Romain,Grosjean,Romain Grosjean,Sepang International Circuit
+154,3,7.285714285714286,7,11.067164179104477,134,-3.7814498933901914,Romain,Grosjean,Romain Grosjean,Bahrain International Circuit
+154,4,11.571428571428571,7,11.067164179104477,134,0.5042643923240941,Romain,Grosjean,Romain Grosjean,Circuit de Barcelona-Catalunya
+154,6,11.0,6,11.067164179104477,134,-0.06716417910447703,Romain,Grosjean,Romain Grosjean,Circuit de Monaco
+154,7,10.714285714285714,7,11.067164179104477,134,-0.3528784648187635,Romain,Grosjean,Romain Grosjean,Circuit Gilles Villeneuve
+154,9,13.666666666666666,6,11.067164179104477,134,2.599502487562189,Romain,Grosjean,Romain Grosjean,Silverstone Circuit
+154,10,11.0,4,11.067164179104477,134,-0.06716417910447703,Romain,Grosjean,Romain Grosjean,Hockenheimring
+154,11,9.333333333333334,6,11.067164179104477,134,-1.733830845771143,Romain,Grosjean,Romain Grosjean,Hungaroring
+154,13,9.428571428571429,7,11.067164179104477,134,-1.6385927505330482,Romain,Grosjean,Romain Grosjean,Circuit de Spa-Francorchamps
+154,14,13.285714285714286,7,11.067164179104477,134,2.2185501066098094,Romain,Grosjean,Romain Grosjean,Autodromo Nazionale di Monza
+154,15,11.333333333333334,6,11.067164179104477,134,0.2661691542288569,Romain,Grosjean,Romain Grosjean,Marina Bay Street Circuit
+154,17,11.428571428571429,7,11.067164179104477,134,0.3614072494669518,Romain,Grosjean,Romain Grosjean,Shanghai International Circuit
+154,18,12.333333333333334,6,11.067164179104477,134,1.266169154228857,Romain,Grosjean,Romain Grosjean,Autódromo José Carlos Pace
+154,22,11.222222222222221,9,11.067164179104477,134,0.1550580431177444,Romain,Grosjean,Romain Grosjean,Suzuka Circuit
+154,24,11.25,8,11.067164179104477,134,0.18283582089552297,Romain,Grosjean,Romain Grosjean,Yas Marina Circuit
+154,32,15.6,5,11.067164179104477,134,4.532835820895523,Romain,Grosjean,Romain Grosjean,Autódromo Hermanos Rodríguez
+154,69,9.833333333333334,6,11.067164179104477,134,-1.233830845771143,Romain,Grosjean,Romain Grosjean,Circuit of the Americas
+154,70,10.0,6,11.067164179104477,134,-1.067164179104477,Romain,Grosjean,Romain Grosjean,Red Bull Ring
+154,71,13.25,4,11.067164179104477,134,2.182835820895523,Romain,Grosjean,Romain Grosjean,Sochi Autodrom
+155,18,9.5,4,10.849056603773585,53,-1.349056603773585,Kamui,Kobayashi,Kamui Kobayashi,Autódromo José Carlos Pace
+155,22,10.5,4,10.849056603773585,53,-0.34905660377358494,Kamui,Kobayashi,Kamui Kobayashi,Suzuka Circuit
+155,24,9.0,4,10.849056603773585,53,-1.849056603773585,Kamui,Kobayashi,Kamui Kobayashi,Yas Marina Circuit
+807,1,7.625,8,10.22340425531915,188,-2.5984042553191493,Nico,Hülkenberg,Nico Hülkenberg,Albert Park Grand Prix Circuit
+807,2,10.0,7,10.22340425531915,188,-0.22340425531914931,Nico,Hülkenberg,Nico Hülkenberg,Sepang International Circuit
+807,3,12.181818181818182,11,10.22340425531915,188,1.9584139264990323,Nico,Hülkenberg,Nico Hülkenberg,Bahrain International Circuit
+807,4,12.333333333333334,9,10.22340425531915,188,2.1099290780141846,Nico,Hülkenberg,Nico Hülkenberg,Circuit de Barcelona-Catalunya
+807,6,9.875,8,10.22340425531915,188,-0.3484042553191493,Nico,Hülkenberg,Nico Hülkenberg,Circuit de Monaco
+807,7,9.4,10,10.22340425531915,188,-0.823404255319149,Nico,Hülkenberg,Nico Hülkenberg,Circuit Gilles Villeneuve
+807,9,8.5,12,10.22340425531915,188,-1.7234042553191493,Nico,Hülkenberg,Nico Hülkenberg,Silverstone Circuit
+807,10,8.2,5,10.22340425531915,188,-2.02340425531915,Nico,Hülkenberg,Nico Hülkenberg,Hockenheimring
+807,11,11.777777777777779,9,10.22340425531915,188,1.5543735224586293,Nico,Hülkenberg,Nico Hülkenberg,Hungaroring
+807,13,10.555555555555555,9,10.22340425531915,188,0.33215130023640604,Nico,Hülkenberg,Nico Hülkenberg,Circuit de Spa-Francorchamps
+807,14,11.545454545454545,11,10.22340425531915,188,1.3220502901353957,Nico,Hülkenberg,Nico Hülkenberg,Autodromo Nazionale di Monza
+807,15,10.375,8,10.22340425531915,188,0.15159574468085069,Nico,Hülkenberg,Nico Hülkenberg,Marina Bay Street Circuit
+807,17,11.125,8,10.22340425531915,188,0.9015957446808507,Nico,Hülkenberg,Nico Hülkenberg,Shanghai International Circuit
+807,18,8.777777777777779,9,10.22340425531915,188,-1.4456264775413707,Nico,Hülkenberg,Nico Hülkenberg,Autódromo José Carlos Pace
+807,22,8.571428571428571,7,10.22340425531915,188,-1.6519756838905781,Nico,Hülkenberg,Nico Hülkenberg,Suzuka Circuit
+807,24,10.11111111111111,9,10.22340425531915,188,-0.1122931442080386,Nico,Hülkenberg,Nico Hülkenberg,Yas Marina Circuit
+807,32,8.666666666666666,6,10.22340425531915,188,-1.5567375886524832,Nico,Hülkenberg,Nico Hülkenberg,Autódromo Hermanos Rodríguez
+807,69,8.0,6,10.22340425531915,188,-2.2234042553191493,Nico,Hülkenberg,Nico Hülkenberg,Circuit of the Americas
+807,70,11.0,6,10.22340425531915,188,0.7765957446808507,Nico,Hülkenberg,Nico Hülkenberg,Red Bull Ring
+807,71,10.5,4,10.22340425531915,188,0.2765957446808507,Nico,Hülkenberg,Nico Hülkenberg,Sochi Autodrom
+807,73,12.75,4,10.22340425531915,188,2.5265957446808507,Nico,Hülkenberg,Nico Hülkenberg,Baku City Circuit
+813,4,11.25,4,12.805970149253731,67,-1.5559701492537314,Pastor,Maldonado,Pastor Maldonado,Circuit de Barcelona-Catalunya
+813,9,14.5,4,12.805970149253731,67,1.6940298507462686,Pastor,Maldonado,Pastor Maldonado,Silverstone Circuit
+813,11,13.2,5,12.805970149253731,67,0.39402985074626784,Pastor,Maldonado,Pastor Maldonado,Hungaroring
+813,14,12.5,4,12.805970149253731,67,-0.30597014925373145,Pastor,Maldonado,Pastor Maldonado,Autodromo Nazionale di Monza
+813,15,11.5,4,12.805970149253731,67,-1.3059701492537314,Pastor,Maldonado,Pastor Maldonado,Marina Bay Street Circuit
+813,17,13.5,4,12.805970149253731,67,0.6940298507462686,Pastor,Maldonado,Pastor Maldonado,Shanghai International Circuit
+813,22,12.4,5,12.805970149253731,67,-0.4059701492537311,Pastor,Maldonado,Pastor Maldonado,Suzuka Circuit
+813,69,10.75,4,12.805970149253731,67,-2.0559701492537314,Pastor,Maldonado,Pastor Maldonado,Circuit of the Americas
+815,1,8.636363636363637,11,8.00796812749004,251,0.6283955088735969,Sergio,Pérez,Sergio Pérez,Albert Park Grand Prix Circuit
+815,2,7.2,5,8.00796812749004,251,-0.8079681274900397,Sergio,Pérez,Sergio Pérez,Sepang International Circuit
+815,3,8.785714285714286,14,8.00796812749004,251,0.7777461582242466,Sergio,Pérez,Sergio Pérez,Bahrain International Circuit
+815,4,7.615384615384615,13,8.00796812749004,251,-0.39258351210542486,Sergio,Pérez,Sergio Pérez,Circuit de Barcelona-Catalunya
+815,6,9.5,10,8.00796812749004,251,1.4920318725099602,Sergio,Pérez,Sergio Pérez,Circuit de Monaco
+815,7,9.222222222222221,9,8.00796812749004,251,1.2142540947321816,Sergio,Pérez,Sergio Pérez,Circuit Gilles Villeneuve
+815,9,10.833333333333334,12,8.00796812749004,251,2.825365205843294,Sergio,Pérez,Sergio Pérez,Silverstone Circuit
+815,10,8.25,4,8.00796812749004,251,0.24203187250996017,Sergio,Pérez,Sergio Pérez,Hockenheimring
+815,11,9.454545454545455,11,8.00796812749004,251,1.4465773270554152,Sergio,Pérez,Sergio Pérez,Hungaroring
+815,13,8.083333333333334,12,8.00796812749004,251,0.07536520584329409,Sergio,Pérez,Sergio Pérez,Circuit de Spa-Francorchamps
+815,14,6.846153846153846,13,8.00796812749004,251,-1.161814281336194,Sergio,Pérez,Sergio Pérez,Autodromo Nazionale di Monza
+815,15,8.181818181818182,11,8.00796812749004,251,0.17385005432814182,Sergio,Pérez,Sergio Pérez,Marina Bay Street Circuit
+815,17,10.2,10,8.00796812749004,251,2.1920318725099595,Sergio,Pérez,Sergio Pérez,Shanghai International Circuit
+815,18,8.666666666666666,12,8.00796812749004,251,0.6586985391766262,Sergio,Pérez,Sergio Pérez,Autódromo José Carlos Pace
+815,21,6.75,4,8.00796812749004,251,-1.2579681274900398,Sergio,Pérez,Sergio Pérez,Autodromo Enzo e Dino Ferrari
+815,22,7.8,10,8.00796812749004,251,-0.20796812749004,Sergio,Pérez,Sergio Pérez,Suzuka Circuit
+815,24,8.25,12,8.00796812749004,251,0.24203187250996017,Sergio,Pérez,Sergio Pérez,Yas Marina Circuit
+815,32,7.857142857142857,7,8.00796812749004,251,-0.15082527034718307,Sergio,Pérez,Sergio Pérez,Autódromo Hermanos Rodríguez
+815,39,5.75,4,8.00796812749004,251,-2.25796812749004,Sergio,Pérez,Sergio Pérez,Circuit Park Zandvoort
+815,69,6.818181818181818,11,8.00796812749004,251,-1.1897863093082215,Sergio,Pérez,Sergio Pérez,Circuit of the Americas
+815,70,7.416666666666667,12,8.00796812749004,251,-0.5913014608233729,Sergio,Pérez,Sergio Pérez,Red Bull Ring
+815,71,7.25,8,8.00796812749004,251,-0.7579681274900398,Sergio,Pérez,Sergio Pérez,Sochi Autodrom
+815,73,4.714285714285714,7,8.00796812749004,251,-3.2936824132043254,Sergio,Pérez,Sergio Pérez,Baku City Circuit
+817,1,6.833333333333333,6,8.73394495412844,218,-1.9006116207951065,Daniel,Ricciardo,Daniel Ricciardo,Albert Park Grand Prix Circuit
+817,2,8.8,5,8.73394495412844,218,0.06605504587156119,Daniel,Ricciardo,Daniel Ricciardo,Sepang International Circuit
+817,3,8.727272727272727,11,8.73394495412844,218,-0.006672226855712893,Daniel,Ricciardo,Daniel Ricciardo,Bahrain International Circuit
+817,4,8.416666666666666,12,8.73394495412844,218,-0.31727828746177344,Daniel,Ricciardo,Daniel Ricciardo,Circuit de Barcelona-Catalunya
+817,6,6.666666666666667,9,8.73394495412844,218,-2.0672782874617726,Daniel,Ricciardo,Daniel Ricciardo,Circuit de Monaco
+817,7,8.2,10,8.73394495412844,218,-0.5339449541284402,Daniel,Ricciardo,Daniel Ricciardo,Circuit Gilles Villeneuve
+817,9,8.692307692307692,13,8.73394495412844,218,-0.041637261820747895,Daniel,Ricciardo,Daniel Ricciardo,Silverstone Circuit
+817,11,10.0,13,8.73394495412844,218,1.2660550458715605,Daniel,Ricciardo,Daniel Ricciardo,Hungaroring
+817,13,8.0,11,8.73394495412844,218,-0.7339449541284395,Daniel,Ricciardo,Daniel Ricciardo,Circuit de Spa-Francorchamps
+817,14,6.5,10,8.73394495412844,218,-2.2339449541284395,Daniel,Ricciardo,Daniel Ricciardo,Autodromo Nazionale di Monza
+817,15,8.0,10,8.73394495412844,218,-0.7339449541284395,Daniel,Ricciardo,Daniel Ricciardo,Marina Bay Street Circuit
+817,17,6.625,8,8.73394495412844,218,-2.1089449541284395,Daniel,Ricciardo,Daniel Ricciardo,Shanghai International Circuit
+817,18,10.11111111111111,9,8.73394495412844,218,1.3771661569826712,Daniel,Ricciardo,Daniel Ricciardo,Autódromo José Carlos Pace
+817,21,10.0,4,8.73394495412844,218,1.2660550458715605,Daniel,Ricciardo,Daniel Ricciardo,Autodromo Enzo e Dino Ferrari
+817,22,9.777777777777779,9,8.73394495412844,218,1.043832823649339,Daniel,Ricciardo,Daniel Ricciardo,Suzuka Circuit
+817,24,8.636363636363637,11,8.73394495412844,218,-0.09758131776480283,Daniel,Ricciardo,Daniel Ricciardo,Yas Marina Circuit
+817,32,7.0,6,8.73394495412844,218,-1.7339449541284395,Daniel,Ricciardo,Daniel Ricciardo,Autódromo Hermanos Rodríguez
+817,34,7.5,4,8.73394495412844,218,-1.2339449541284395,Daniel,Ricciardo,Daniel Ricciardo,Circuit Paul Ricard
+817,69,9.0,9,8.73394495412844,218,0.2660550458715605,Daniel,Ricciardo,Daniel Ricciardo,Circuit of the Americas
+817,70,8.4,10,8.73394495412844,218,-0.33394495412843916,Daniel,Ricciardo,Daniel Ricciardo,Red Bull Ring
+817,71,8.0,6,8.73394495412844,218,-0.7339449541284395,Daniel,Ricciardo,Daniel Ricciardo,Sochi Autodrom
+817,73,7.6,5,8.73394495412844,218,-1.1339449541284399,Daniel,Ricciardo,Daniel Ricciardo,Baku City Circuit
+822,1,8.0,9,7.831818181818182,220,0.168181818181818,Valtteri,Bottas,Valtteri Bottas,Albert Park Grand Prix Circuit
+822,2,6.8,5,7.831818181818182,220,-1.0318181818181822,Valtteri,Bottas,Valtteri Bottas,Sepang International Circuit
+822,3,7.230769230769231,13,7.831818181818182,220,-0.6010489510489512,Valtteri,Bottas,Valtteri Bottas,Bahrain International Circuit
+822,4,7.363636363636363,11,7.831818181818182,220,-0.4681818181818187,Valtteri,Bottas,Valtteri Bottas,Circuit de Barcelona-Catalunya
+822,6,9.222222222222221,9,7.831818181818182,220,1.3904040404040394,Valtteri,Bottas,Valtteri Bottas,Circuit de Monaco
+822,7,6.5,10,7.831818181818182,220,-1.331818181818182,Valtteri,Bottas,Valtteri Bottas,Circuit Gilles Villeneuve
+822,9,7.083333333333333,12,7.831818181818182,220,-0.748484848484849,Valtteri,Bottas,Valtteri Bottas,Silverstone Circuit
+822,11,9.7,10,7.831818181818182,220,1.8681818181818173,Valtteri,Bottas,Valtteri Bottas,Hungaroring
+822,13,8.0,11,7.831818181818182,220,0.168181818181818,Valtteri,Bottas,Valtteri Bottas,Circuit de Spa-Francorchamps
+822,14,6.916666666666667,12,7.831818181818182,220,-0.915151515151515,Valtteri,Bottas,Valtteri Bottas,Autodromo Nazionale di Monza
+822,15,8.5,8,7.831818181818182,220,0.668181818181818,Valtteri,Bottas,Valtteri Bottas,Marina Bay Street Circuit
+822,17,6.571428571428571,7,7.831818181818182,220,-1.2603896103896108,Valtteri,Bottas,Valtteri Bottas,Shanghai International Circuit
+822,18,7.25,8,7.831818181818182,220,-0.581818181818182,Valtteri,Bottas,Valtteri Bottas,Autódromo José Carlos Pace
+822,22,8.222222222222221,9,7.831818181818182,220,0.3904040404040394,Valtteri,Bottas,Valtteri Bottas,Suzuka Circuit
+822,24,8.3,10,7.831818181818182,220,0.4681818181818187,Valtteri,Bottas,Valtteri Bottas,Yas Marina Circuit
+822,32,8.333333333333334,9,7.831818181818182,220,0.5015151515151519,Valtteri,Bottas,Valtteri Bottas,Autódromo Hermanos Rodríguez
+822,34,6.75,4,7.831818181818182,220,-1.081818181818182,Valtteri,Bottas,Valtteri Bottas,Circuit Paul Ricard
+822,69,8.333333333333334,9,7.831818181818182,220,0.5015151515151519,Valtteri,Bottas,Valtteri Bottas,Circuit of the Americas
+822,70,5.916666666666667,12,7.831818181818182,220,-1.915151515151515,Valtteri,Bottas,Valtteri Bottas,Red Bull Ring
+822,71,3.75,8,7.831818181818182,220,-4.081818181818182,Valtteri,Bottas,Valtteri Bottas,Sochi Autodrom
+822,73,9.428571428571429,7,7.831818181818182,220,1.5967532467532468,Valtteri,Bottas,Valtteri Bottas,Baku City Circuit
+825,1,10.166666666666666,6,12.593548387096774,155,-2.4268817204301083,Kevin,Magnussen,Kevin Magnussen,Albert Park Grand Prix Circuit
+825,3,11.375,8,12.593548387096774,155,-1.2185483870967744,Kevin,Magnussen,Kevin Magnussen,Bahrain International Circuit
+825,4,13.333333333333334,9,12.593548387096774,155,0.7397849462365595,Kevin,Magnussen,Kevin Magnussen,Circuit de Barcelona-Catalunya
+825,6,11.75,4,12.593548387096774,155,-0.8435483870967744,Kevin,Magnussen,Kevin Magnussen,Circuit de Monaco
+825,7,14.125,8,12.593548387096774,155,1.5314516129032256,Kevin,Magnussen,Kevin Magnussen,Circuit Gilles Villeneuve
+825,9,11.166666666666666,6,12.593548387096774,155,-1.4268817204301083,Kevin,Magnussen,Kevin Magnussen,Silverstone Circuit
+825,10,11.0,4,12.593548387096774,155,-1.5935483870967744,Kevin,Magnussen,Kevin Magnussen,Hockenheimring
+825,11,13.11111111111111,9,12.593548387096774,155,0.5175627240143363,Kevin,Magnussen,Kevin Magnussen,Hungaroring
+825,13,13.625,8,12.593548387096774,155,1.0314516129032256,Kevin,Magnussen,Kevin Magnussen,Circuit de Spa-Francorchamps
+825,14,14.0,7,12.593548387096774,155,1.4064516129032256,Kevin,Magnussen,Kevin Magnussen,Autodromo Nazionale di Monza
+825,15,13.714285714285714,7,12.593548387096774,155,1.1207373271889391,Kevin,Magnussen,Kevin Magnussen,Marina Bay Street Circuit
+825,17,12.833333333333334,6,12.593548387096774,155,0.23978494623655955,Kevin,Magnussen,Kevin Magnussen,Shanghai International Circuit
+825,18,10.75,4,12.593548387096774,155,-1.8435483870967744,Kevin,Magnussen,Kevin Magnussen,Autódromo José Carlos Pace
+825,22,13.285714285714286,7,12.593548387096774,155,0.6921658986175121,Kevin,Magnussen,Kevin Magnussen,Suzuka Circuit
+825,24,14.875,8,12.593548387096774,155,2.2814516129032256,Kevin,Magnussen,Kevin Magnussen,Yas Marina Circuit
+825,32,13.166666666666666,6,12.593548387096774,155,0.5731182795698917,Kevin,Magnussen,Kevin Magnussen,Autódromo Hermanos Rodríguez
+825,69,12.571428571428571,7,12.593548387096774,155,-0.022119815668203202,Kevin,Magnussen,Kevin Magnussen,Circuit of the Americas
+825,70,11.375,8,12.593548387096774,155,-1.2185483870967744,Kevin,Magnussen,Kevin Magnussen,Red Bull Ring
+825,71,9.0,6,12.593548387096774,155,-3.5935483870967744,Kevin,Magnussen,Kevin Magnussen,Sochi Autodrom
+825,73,12.0,5,12.593548387096774,155,-0.5935483870967744,Kevin,Magnussen,Kevin Magnussen,Baku City Circuit
+826,3,9.857142857142858,7,10.622222222222222,90,-0.7650793650793641,Daniil,Kvyat,Daniil Kvyat,Bahrain International Circuit
+826,4,10.666666666666666,6,10.622222222222222,90,0.04444444444444429,Daniil,Kvyat,Daniil Kvyat,Circuit de Barcelona-Catalunya
+826,9,9.833333333333334,6,10.622222222222222,90,-0.7888888888888879,Daniil,Kvyat,Daniil Kvyat,Silverstone Circuit
+826,11,11.666666666666666,6,10.622222222222222,90,1.0444444444444443,Daniil,Kvyat,Daniil Kvyat,Hungaroring
+826,13,9.5,6,10.622222222222222,90,-1.1222222222222218,Daniil,Kvyat,Daniil Kvyat,Circuit de Spa-Francorchamps
+826,14,10.5,4,10.622222222222222,90,-0.12222222222222179,Daniil,Kvyat,Daniil Kvyat,Autodromo Nazionale di Monza
+826,15,11.0,4,10.622222222222222,90,0.3777777777777782,Daniil,Kvyat,Daniil Kvyat,Marina Bay Street Circuit
+826,18,10.25,4,10.622222222222222,90,-0.3722222222222218,Daniil,Kvyat,Daniil Kvyat,Autódromo José Carlos Pace
+826,22,11.75,4,10.622222222222222,90,1.1277777777777782,Daniil,Kvyat,Daniil Kvyat,Suzuka Circuit
+826,69,12.0,4,10.622222222222222,90,1.3777777777777782,Daniil,Kvyat,Daniil Kvyat,Circuit of the Americas
+826,70,13.4,5,10.622222222222222,90,2.7777777777777786,Daniil,Kvyat,Daniil Kvyat,Red Bull Ring
+826,71,11.0,6,10.622222222222222,90,0.3777777777777782,Daniil,Kvyat,Daniil Kvyat,Sochi Autodrom
+828,4,14.0,5,13.91891891891892,74,0.0810810810810807,Marcus,Ericsson,Marcus Ericsson,Circuit de Barcelona-Catalunya
+828,7,14.25,4,13.91891891891892,74,0.3310810810810807,Marcus,Ericsson,Marcus Ericsson,Circuit Gilles Villeneuve
+828,11,15.25,4,13.91891891891892,74,1.3310810810810807,Marcus,Ericsson,Marcus Ericsson,Hungaroring
+828,13,13.25,4,13.91891891891892,74,-0.6689189189189193,Marcus,Ericsson,Marcus Ericsson,Circuit de Spa-Francorchamps
+828,14,15.6,5,13.91891891891892,74,1.6810810810810803,Marcus,Ericsson,Marcus Ericsson,Autodromo Nazionale di Monza
+828,15,13.5,4,13.91891891891892,74,-0.4189189189189193,Marcus,Ericsson,Marcus Ericsson,Marina Bay Street Circuit
+828,17,15.4,5,13.91891891891892,74,1.481081081081081,Marcus,Ericsson,Marcus Ericsson,Shanghai International Circuit
+828,22,14.5,4,13.91891891891892,74,0.5810810810810807,Marcus,Ericsson,Marcus Ericsson,Suzuka Circuit
+828,70,14.2,5,13.91891891891892,74,0.28108108108108,Marcus,Ericsson,Marcus Ericsson,Red Bull Ring
+828,71,15.25,4,13.91891891891892,74,1.3310810810810807,Marcus,Ericsson,Marcus Ericsson,Sochi Autodrom
+830,1,5.0,5,3.547486033519553,179,1.452513966480447,Max,Verstappen,Max Verstappen,Albert Park Grand Prix Circuit
+830,3,5.0,7,3.547486033519553,179,1.452513966480447,Max,Verstappen,Max Verstappen,Bahrain International Circuit
+830,4,2.7777777777777777,9,3.547486033519553,179,-0.7697082557417754,Max,Verstappen,Max Verstappen,Circuit de Barcelona-Catalunya
+830,6,4.142857142857143,7,3.547486033519553,179,0.5953711093375902,Max,Verstappen,Max Verstappen,Circuit de Monaco
+830,7,4.285714285714286,7,3.547486033519553,179,0.7382282521947325,Max,Verstappen,Max Verstappen,Circuit Gilles Villeneuve
+830,9,3.0,8,3.547486033519553,179,-0.547486033519553,Max,Verstappen,Max Verstappen,Silverstone Circuit
+830,11,3.7777777777777777,9,3.547486033519553,179,0.23029174425822463,Max,Verstappen,Max Verstappen,Hungaroring
+830,13,4.0,8,3.547486033519553,179,0.45251396648044695,Max,Verstappen,Max Verstappen,Circuit de Spa-Francorchamps
+830,14,6.25,8,3.547486033519553,179,2.702513966480447,Max,Verstappen,Max Verstappen,Autodromo Nazionale di Monza
+830,15,4.714285714285714,7,3.547486033519553,179,1.1667996807661614,Max,Verstappen,Max Verstappen,Marina Bay Street Circuit
+830,17,6.333333333333333,6,3.547486033519553,179,2.78584729981378,Max,Verstappen,Max Verstappen,Shanghai International Circuit
+830,18,3.3333333333333335,9,3.547486033519553,179,-0.21415270018621957,Max,Verstappen,Max Verstappen,Autódromo José Carlos Pace
+830,22,2.7142857142857144,7,3.547486033519553,179,-0.8332003192338386,Max,Verstappen,Max Verstappen,Suzuka Circuit
+830,24,4.0,10,3.547486033519553,179,0.45251396648044695,Max,Verstappen,Max Verstappen,Yas Marina Circuit
+830,32,3.3333333333333335,9,3.547486033519553,179,-0.21415270018621957,Max,Verstappen,Max Verstappen,Autódromo Hermanos Rodríguez
+830,34,2.0,4,3.547486033519553,179,-1.547486033519553,Max,Verstappen,Max Verstappen,Circuit Paul Ricard
+830,39,1.25,4,3.547486033519553,179,-2.297486033519553,Max,Verstappen,Max Verstappen,Circuit Park Zandvoort
+830,69,2.375,8,3.547486033519553,179,-1.172486033519553,Max,Verstappen,Max Verstappen,Circuit of the Americas
+830,70,2.5,10,3.547486033519553,179,-1.047486033519553,Max,Verstappen,Max Verstappen,Red Bull Ring
+830,71,4.666666666666667,6,3.547486033519553,179,1.119180633147114,Max,Verstappen,Max Verstappen,Sochi Autodrom
+830,73,4.0,5,3.547486033519553,179,0.45251396648044695,Max,Verstappen,Max Verstappen,Baku City Circuit
+830,77,1.5,4,3.547486033519553,179,-2.047486033519553,Max,Verstappen,Max Verstappen,Jeddah Corniche Circuit
+832,1,8.166666666666666,6,7.229411764705882,170,0.9372549019607836,Carlos,Sainz,Carlos Sainz,Albert Park Grand Prix Circuit
+832,3,5.285714285714286,7,7.229411764705882,170,-1.9436974789915968,Carlos,Sainz,Carlos Sainz,Bahrain International Circuit
+832,4,6.5,10,7.229411764705882,170,-0.7294117647058824,Carlos,Sainz,Carlos Sainz,Circuit de Barcelona-Catalunya
+832,6,6.111111111111111,9,7.229411764705882,170,-1.1183006535947717,Carlos,Sainz,Carlos Sainz,Circuit de Monaco
+832,7,7.833333333333333,6,7.229411764705882,170,0.6039215686274506,Carlos,Sainz,Carlos Sainz,Circuit Gilles Villeneuve
+832,9,7.75,8,7.229411764705882,170,0.5205882352941176,Carlos,Sainz,Carlos Sainz,Silverstone Circuit
+832,11,6.555555555555555,9,7.229411764705882,170,-0.6738562091503271,Carlos,Sainz,Carlos Sainz,Hungaroring
+832,13,8.0,5,7.229411764705882,170,0.7705882352941176,Carlos,Sainz,Carlos Sainz,Circuit de Spa-Francorchamps
+832,14,7.444444444444445,9,7.229411764705882,170,0.21503267973856222,Carlos,Sainz,Carlos Sainz,Autodromo Nazionale di Monza
+832,15,7.25,8,7.229411764705882,170,0.020588235294117574,Carlos,Sainz,Carlos Sainz,Marina Bay Street Circuit
+832,17,9.5,6,7.229411764705882,170,2.2705882352941176,Carlos,Sainz,Carlos Sainz,Shanghai International Circuit
+832,18,6.714285714285714,7,7.229411764705882,170,-0.515126050420168,Carlos,Sainz,Carlos Sainz,Autódromo José Carlos Pace
+832,22,8.5,6,7.229411764705882,170,1.2705882352941176,Carlos,Sainz,Carlos Sainz,Suzuka Circuit
+832,24,7.5,8,7.229411764705882,170,0.2705882352941176,Carlos,Sainz,Carlos Sainz,Yas Marina Circuit
+832,32,8.285714285714286,7,7.229411764705882,170,1.056302521008404,Carlos,Sainz,Carlos Sainz,Autódromo Hermanos Rodríguez
+832,34,7.5,4,7.229411764705882,170,0.2705882352941176,Carlos,Sainz,Carlos Sainz,Circuit Paul Ricard
+832,39,6.25,4,7.229411764705882,170,-0.9794117647058824,Carlos,Sainz,Carlos Sainz,Circuit Park Zandvoort
+832,69,5.875,8,7.229411764705882,170,-1.3544117647058824,Carlos,Sainz,Carlos Sainz,Circuit of the Americas
+832,70,6.888888888888889,9,7.229411764705882,170,-0.34052287581699314,Carlos,Sainz,Carlos Sainz,Red Bull Ring
+832,71,9.6,5,7.229411764705882,170,2.370588235294117,Carlos,Sainz,Carlos Sainz,Sochi Autodrom
+832,73,8.5,6,7.229411764705882,170,1.2705882352941176,Carlos,Sainz,Carlos Sainz,Baku City Circuit
+839,1,11.8,5,9.962121212121213,132,1.837878787878788,Esteban,Ocon,Esteban Ocon,Albert Park Grand Prix Circuit
+839,3,9.714285714285714,7,9.962121212121213,132,-0.2478354978354993,Esteban,Ocon,Esteban Ocon,Bahrain International Circuit
+839,4,8.666666666666666,6,9.962121212121213,132,-1.2954545454545467,Esteban,Ocon,Esteban Ocon,Circuit de Barcelona-Catalunya
+839,6,8.4,5,9.962121212121213,132,-1.5621212121212125,Esteban,Ocon,Esteban Ocon,Circuit de Monaco
+839,7,7.8,5,9.962121212121213,132,-2.162121212121213,Esteban,Ocon,Esteban Ocon,Circuit Gilles Villeneuve
+839,9,9.0,6,9.962121212121213,132,-0.9621212121212128,Esteban,Ocon,Esteban Ocon,Silverstone Circuit
+839,11,10.666666666666666,6,9.962121212121213,132,0.7045454545454533,Esteban,Ocon,Esteban Ocon,Hungaroring
+839,13,8.375,8,9.962121212121213,132,-1.5871212121212128,Esteban,Ocon,Esteban Ocon,Circuit de Spa-Francorchamps
+839,14,10.428571428571429,7,9.962121212121213,132,0.466450216450216,Esteban,Ocon,Esteban Ocon,Autodromo Nazionale di Monza
+839,18,9.166666666666666,6,9.962121212121213,132,-0.7954545454545467,Esteban,Ocon,Esteban Ocon,Autódromo José Carlos Pace
+839,22,10.666666666666666,6,9.962121212121213,132,0.7045454545454533,Esteban,Ocon,Esteban Ocon,Suzuka Circuit
+839,24,9.666666666666666,6,9.962121212121213,132,-0.29545454545454675,Esteban,Ocon,Esteban Ocon,Yas Marina Circuit
+839,32,11.571428571428571,7,9.962121212121213,132,1.6093073593073584,Esteban,Ocon,Esteban Ocon,Autódromo Hermanos Rodríguez
+839,39,10.75,4,9.962121212121213,132,0.7878787878787872,Esteban,Ocon,Esteban Ocon,Circuit Park Zandvoort
+839,69,13.25,4,9.962121212121213,132,3.287878787878787,Esteban,Ocon,Esteban Ocon,Circuit of the Americas
+839,70,9.571428571428571,7,9.962121212121213,132,-0.39069264069264165,Esteban,Ocon,Esteban Ocon,Red Bull Ring
+839,71,9.25,4,9.962121212121213,132,-0.7121212121212128,Esteban,Ocon,Esteban Ocon,Sochi Autodrom
+839,73,11.5,4,9.962121212121213,132,1.5378787878787872,Esteban,Ocon,Esteban Ocon,Baku City Circuit
+839,77,7.75,4,9.962121212121213,132,-2.212121212121213,Esteban,Ocon,Esteban Ocon,Jeddah Corniche Circuit
+840,1,9.0,5,11.293706293706293,143,-2.2937062937062933,Lance,Stroll,Lance Stroll,Albert Park Grand Prix Circuit
+840,3,9.857142857142858,7,11.293706293706293,143,-1.4365634365634357,Lance,Stroll,Lance Stroll,Bahrain International Circuit
+840,4,11.0,7,11.293706293706293,143,-0.2937062937062933,Lance,Stroll,Lance Stroll,Circuit de Barcelona-Catalunya
+840,6,14.0,6,11.293706293706293,143,2.7062937062937067,Lance,Stroll,Lance Stroll,Circuit de Monaco
+840,7,8.8,5,11.293706293706293,143,-2.4937062937062926,Lance,Stroll,Lance Stroll,Circuit Gilles Villeneuve
+840,9,10.666666666666666,9,11.293706293706293,143,-0.6270396270396272,Lance,Stroll,Lance Stroll,Silverstone Circuit
+840,11,11.857142857142858,7,11.293706293706293,143,0.5634365634365643,Lance,Stroll,Lance Stroll,Hungaroring
+840,13,11.75,8,11.293706293706293,143,0.4562937062937067,Lance,Stroll,Lance Stroll,Circuit de Spa-Francorchamps
+840,14,10.428571428571429,7,11.293706293706293,143,-0.8651348651348645,Lance,Stroll,Lance Stroll,Autodromo Nazionale di Monza
+840,15,11.0,5,11.293706293706293,143,-0.2937062937062933,Lance,Stroll,Lance Stroll,Marina Bay Street Circuit
+840,18,13.6,5,11.293706293706293,143,2.3062937062937063,Lance,Stroll,Lance Stroll,Autódromo José Carlos Pace
+840,21,10.0,4,11.293706293706293,143,-1.2937062937062933,Lance,Stroll,Lance Stroll,Autodromo Enzo e Dino Ferrari
+840,22,12.5,4,11.293706293706293,143,1.2062937062937067,Lance,Stroll,Lance Stroll,Suzuka Circuit
+840,24,12.285714285714286,7,11.293706293706293,143,0.9920079920079932,Lance,Stroll,Lance Stroll,Yas Marina Circuit
+840,32,12.428571428571429,7,11.293706293706293,143,1.1348651348651355,Lance,Stroll,Lance Stroll,Autódromo Hermanos Rodríguez
+840,34,12.5,4,11.293706293706293,143,1.2062937062937067,Lance,Stroll,Lance Stroll,Circuit Paul Ricard
+840,39,11.5,4,11.293706293706293,143,0.2062937062937067,Lance,Stroll,Lance Stroll,Circuit Park Zandvoort
+840,69,12.0,6,11.293706293706293,143,0.7062937062937067,Lance,Stroll,Lance Stroll,Circuit of the Americas
+840,70,11.222222222222221,9,11.293706293706293,143,-0.07148407148407188,Lance,Stroll,Lance Stroll,Red Bull Ring
+840,71,12.0,4,11.293706293706293,143,0.7062937062937067,Lance,Stroll,Lance Stroll,Sochi Autodrom
+840,73,10.333333333333334,6,11.293706293706293,143,-0.9603729603729594,Lance,Stroll,Lance Stroll,Baku City Circuit
+841,3,13.0,4,13.392857142857142,56,-0.39285714285714235,Antonio,Giovinazzi,Antonio Giovinazzi,Bahrain International Circuit
+841,70,12.4,5,13.392857142857142,56,-0.992857142857142,Antonio,Giovinazzi,Antonio Giovinazzi,Red Bull Ring
+842,1,11.5,4,10.08955223880597,134,1.41044776119403,Pierre,Gasly,Pierre Gasly,Albert Park Grand Prix Circuit
+842,3,10.428571428571429,7,10.08955223880597,134,0.33901918976545886,Pierre,Gasly,Pierre Gasly,Bahrain International Circuit
+842,4,9.5,6,10.08955223880597,134,-0.58955223880597,Pierre,Gasly,Pierre Gasly,Circuit de Barcelona-Catalunya
+842,6,7.666666666666667,6,10.08955223880597,134,-2.422885572139303,Pierre,Gasly,Pierre Gasly,Circuit de Monaco
+842,7,10.8,5,10.08955223880597,134,0.7104477611940307,Pierre,Gasly,Pierre Gasly,Circuit Gilles Villeneuve
+842,9,10.666666666666666,6,10.08955223880597,134,0.5771144278606961,Pierre,Gasly,Pierre Gasly,Silverstone Circuit
+842,11,7.25,4,10.08955223880597,134,-2.83955223880597,Pierre,Gasly,Pierre Gasly,Hungaroring
+842,13,9.285714285714286,7,10.08955223880597,134,-0.8038379530916835,Pierre,Gasly,Pierre Gasly,Circuit de Spa-Francorchamps
+842,14,10.666666666666666,6,10.08955223880597,134,0.5771144278606961,Pierre,Gasly,Pierre Gasly,Autodromo Nazionale di Monza
+842,15,10.8,5,10.08955223880597,134,0.7104477611940307,Pierre,Gasly,Pierre Gasly,Marina Bay Street Circuit
+842,18,8.285714285714286,7,10.08955223880597,134,-1.8038379530916835,Pierre,Gasly,Pierre Gasly,Autódromo José Carlos Pace
+842,22,12.5,6,10.08955223880597,134,2.41044776119403,Pierre,Gasly,Pierre Gasly,Suzuka Circuit
+842,24,11.571428571428571,7,10.08955223880597,134,1.4818763326226012,Pierre,Gasly,Pierre Gasly,Yas Marina Circuit
+842,32,9.714285714285714,7,10.08955223880597,134,-0.37526652452025644,Pierre,Gasly,Pierre Gasly,Autódromo Hermanos Rodríguez
+842,39,6.75,4,10.08955223880597,134,-3.33955223880597,Pierre,Gasly,Pierre Gasly,Circuit Park Zandvoort
+842,69,12.0,5,10.08955223880597,134,1.91044776119403,Pierre,Gasly,Pierre Gasly,Circuit of the Americas
+842,70,10.5,8,10.08955223880597,134,0.41044776119403004,Pierre,Gasly,Pierre Gasly,Red Bull Ring
+842,73,9.2,5,10.08955223880597,134,-0.8895522388059707,Pierre,Gasly,Pierre Gasly,Baku City Circuit
+844,1,5.25,4,5.484126984126984,126,-0.23412698412698418,Charles,Leclerc,Charles Leclerc,Albert Park Grand Prix Circuit
+844,3,6.0,6,5.484126984126984,126,0.5158730158730158,Charles,Leclerc,Charles Leclerc,Bahrain International Circuit
+844,4,7.0,5,5.484126984126984,126,1.5158730158730158,Charles,Leclerc,Charles Leclerc,Circuit de Barcelona-Catalunya
+844,7,5.5,4,5.484126984126984,126,0.015873015873015817,Charles,Leclerc,Charles Leclerc,Circuit Gilles Villeneuve
+844,9,5.571428571428571,7,5.484126984126984,126,0.08730158730158699,Charles,Leclerc,Charles Leclerc,Silverstone Circuit
+844,11,6.4,5,5.484126984126984,126,0.9158730158730162,Charles,Leclerc,Charles Leclerc,Hungaroring
+844,13,5.833333333333333,6,5.484126984126984,126,0.34920634920634885,Charles,Leclerc,Charles Leclerc,Circuit de Spa-Francorchamps
+844,14,3.8333333333333335,6,5.484126984126984,126,-1.6507936507936507,Charles,Leclerc,Charles Leclerc,Autodromo Nazionale di Monza
+844,15,4.4,5,5.484126984126984,126,-1.0841269841269838,Charles,Leclerc,Charles Leclerc,Marina Bay Street Circuit
+844,18,7.8,5,5.484126984126984,126,2.3158730158730156,Charles,Leclerc,Charles Leclerc,Autódromo José Carlos Pace
+844,21,4.5,4,5.484126984126984,126,-0.9841269841269842,Charles,Leclerc,Charles Leclerc,Autodromo Enzo e Dino Ferrari
+844,22,4.25,4,5.484126984126984,126,-1.2341269841269842,Charles,Leclerc,Charles Leclerc,Suzuka Circuit
+844,24,5.714285714285714,7,5.484126984126984,126,0.23015873015873023,Charles,Leclerc,Charles Leclerc,Yas Marina Circuit
+844,32,4.666666666666667,6,5.484126984126984,126,-0.8174603174603172,Charles,Leclerc,Charles Leclerc,Autódromo Hermanos Rodríguez
+844,69,3.0,4,5.484126984126984,126,-2.484126984126984,Charles,Leclerc,Charles Leclerc,Circuit of the Americas
+844,70,5.25,8,5.484126984126984,126,-0.23412698412698418,Charles,Leclerc,Charles Leclerc,Red Bull Ring
+844,71,7.75,4,5.484126984126984,126,2.265873015873016,Charles,Leclerc,Charles Leclerc,Sochi Autodrom
+844,73,4.0,5,5.484126984126984,126,-1.4841269841269842,Charles,Leclerc,Charles Leclerc,Baku City Circuit
+844,77,4.75,4,5.484126984126984,126,-0.7341269841269842,Charles,Leclerc,Charles Leclerc,Jeddah Corniche Circuit
+846,1,6.5,4,7.050420168067227,119,-0.5504201680672267,Lando,Norris,Lando Norris,Albert Park Grand Prix Circuit
+846,3,8.857142857142858,7,7.050420168067227,119,1.806722689075631,Lando,Norris,Lando Norris,Bahrain International Circuit
+846,4,9.0,5,7.050420168067227,119,1.9495798319327733,Lando,Norris,Lando Norris,Circuit de Barcelona-Catalunya
+846,6,6.6,5,7.050420168067227,119,-0.45042016806722707,Lando,Norris,Lando Norris,Circuit de Monaco
+846,9,5.714285714285714,7,7.050420168067227,119,-1.3361344537815123,Lando,Norris,Lando Norris,Silverstone Circuit
+846,11,6.6,5,7.050420168067227,119,-0.45042016806722707,Lando,Norris,Lando Norris,Hungaroring
+846,13,9.333333333333334,6,7.050420168067227,119,2.282913165266107,Lando,Norris,Lando Norris,Circuit de Spa-Francorchamps
+846,14,5.666666666666667,6,7.050420168067227,119,-1.3837535014005597,Lando,Norris,Lando Norris,Autodromo Nazionale di Monza
+846,15,3.5,4,7.050420168067227,119,-3.5504201680672267,Lando,Norris,Lando Norris,Marina Bay Street Circuit
+846,18,6.5,4,7.050420168067227,119,-0.5504201680672267,Lando,Norris,Lando Norris,Autódromo José Carlos Pace
+846,21,4.0,4,7.050420168067227,119,-3.0504201680672267,Lando,Norris,Lando Norris,Autodromo Enzo e Dino Ferrari
+846,22,7.0,4,7.050420168067227,119,-0.05042016806722671,Lando,Norris,Lando Norris,Suzuka Circuit
+846,24,5.333333333333333,6,7.050420168067227,119,-1.7170868347338937,Lando,Norris,Lando Norris,Yas Marina Circuit
+846,32,6.5,4,7.050420168067227,119,-0.5504201680672267,Lando,Norris,Lando Norris,Autódromo Hermanos Rodríguez
+846,39,6.25,4,7.050420168067227,119,-0.8004201680672267,Lando,Norris,Lando Norris,Circuit Park Zandvoort
+846,69,5.4,5,7.050420168067227,119,-1.6504201680672264,Lando,Norris,Lando Norris,Circuit of the Americas
+846,70,6.625,8,7.050420168067227,119,-0.4254201680672267,Lando,Norris,Lando Norris,Red Bull Ring
+846,73,7.0,5,7.050420168067227,119,-0.05042016806722671,Lando,Norris,Lando Norris,Baku City Circuit
+846,77,10.5,4,7.050420168067227,119,3.4495798319327733,Lando,Norris,Lando Norris,Jeddah Corniche Circuit
+847,3,9.428571428571429,7,9.36936936936937,111,0.05920205920205923,George,Russell,George Russell,Bahrain International Circuit
+847,4,9.666666666666666,6,9.36936936936937,111,0.2972972972972965,George,Russell,George Russell,Circuit de Barcelona-Catalunya
+847,6,8.8,5,9.36936936936937,111,-0.5693693693693689,George,Russell,George Russell,Circuit de Monaco
+847,9,12.2,5,9.36936936936937,111,2.8306306306306297,George,Russell,George Russell,Silverstone Circuit
+847,11,9.833333333333334,6,9.36936936936937,111,0.46396396396396433,George,Russell,George Russell,Hungaroring
+847,13,6.75,4,9.36936936936937,111,-2.6193693693693696,George,Russell,George Russell,Circuit de Spa-Francorchamps
+847,14,8.666666666666666,6,9.36936936936937,111,-0.7027027027027035,George,Russell,George Russell,Autodromo Nazionale di Monza
+847,18,7.5,4,9.36936936936937,111,-1.8693693693693696,George,Russell,George Russell,Autódromo José Carlos Pace
+847,22,9.5,4,9.36936936936937,111,0.1306306306306304,George,Russell,George Russell,Suzuka Circuit
+847,24,9.0,5,9.36936936936937,111,-0.3693693693693696,George,Russell,George Russell,Yas Marina Circuit
+847,32,9.4,5,9.36936936936937,111,0.030630630630630762,George,Russell,George Russell,Autódromo Hermanos Rodríguez
+847,39,10.75,4,9.36936936936937,111,1.3806306306306304,George,Russell,George Russell,Circuit Park Zandvoort
+847,69,9.4,5,9.36936936936937,111,0.030630630630630762,George,Russell,George Russell,Circuit of the Americas
+847,70,9.5,6,9.36936936936937,111,0.1306306306306304,George,Russell,George Russell,Red Bull Ring
+847,73,7.25,4,9.36936936936937,111,-2.1193693693693696,George,Russell,George Russell,Baku City Circuit
+848,3,9.333333333333334,6,10.613636363636363,88,-1.2803030303030294,Alexander,Albon,Alexander Albon,Bahrain International Circuit
+848,4,14.2,5,10.613636363636363,88,3.586363636363636,Alexander,Albon,Alexander Albon,Circuit de Barcelona-Catalunya
+848,9,8.4,5,10.613636363636363,88,-2.213636363636363,Alexander,Albon,Alexander Albon,Silverstone Circuit
+848,11,11.4,5,10.613636363636363,88,0.786363636363637,Alexander,Albon,Alexander Albon,Hungaroring
+848,13,9.4,5,10.613636363636363,88,-1.213636363636363,Alexander,Albon,Alexander Albon,Circuit de Spa-Francorchamps
+848,14,9.25,4,10.613636363636363,88,-1.3636363636363633,Alexander,Albon,Alexander Albon,Autodromo Nazionale di Monza
+848,24,9.6,5,10.613636363636363,88,-1.0136363636363637,Alexander,Albon,Alexander Albon,Yas Marina Circuit
+848,69,10.75,4,10.613636363636363,88,0.1363636363636367,Alexander,Albon,Alexander Albon,Circuit of the Americas
+848,70,11.666666666666666,6,10.613636363636363,88,1.0530303030303028,Alexander,Albon,Alexander Albon,Red Bull Ring
+848,73,10.5,4,10.613636363636363,88,-0.11363636363636331,Alexander,Albon,Alexander Albon,Baku City Circuit
+849,9,15.0,4,15.431372549019608,51,-0.4313725490196081,Nicholas,Latifi,Nicholas Latifi,Silverstone Circuit
+849,70,15.25,4,15.431372549019608,51,-0.1813725490196081,Nicholas,Latifi,Nicholas Latifi,Red Bull Ring
+852,3,10.5,4,12.27027027027027,74,-1.7702702702702702,Yuki,Tsunoda,Yuki Tsunoda,Bahrain International Circuit
+852,6,14.0,4,12.27027027027027,74,1.7297297297297298,Yuki,Tsunoda,Yuki Tsunoda,Circuit de Monaco
+852,9,12.5,4,12.27027027027027,74,0.22972972972972983,Yuki,Tsunoda,Yuki Tsunoda,Silverstone Circuit
+852,11,12.25,4,12.27027027027027,74,-0.020270270270270174,Yuki,Tsunoda,Yuki Tsunoda,Hungaroring
+852,13,13.5,4,12.27027027027027,74,1.2297297297297298,Yuki,Tsunoda,Yuki Tsunoda,Circuit de Spa-Francorchamps
+852,18,12.0,4,12.27027027027027,74,-0.2702702702702702,Yuki,Tsunoda,Yuki Tsunoda,Autódromo José Carlos Pace
+852,24,8.75,4,12.27027027027027,74,-3.52027027027027,Yuki,Tsunoda,Yuki Tsunoda,Yas Marina Circuit
+852,69,10.25,4,12.27027027027027,74,-2.02027027027027,Yuki,Tsunoda,Yuki Tsunoda,Circuit of the Americas
+852,70,14.2,5,12.27027027027027,74,1.9297297297297291,Yuki,Tsunoda,Yuki Tsunoda,Red Bull Ring

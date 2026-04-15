@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>F1 Win-Probability Model — v1 Back-test</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>F1 Win-Probability Model</h1>
+      <p class="tagline">
+        A two-stage driver + constructor model, tested walk-forward on
+        <span id="n-races">—</span> races across
+        <span id="year-range">—</span>.
+        Every prediction shown here used only information available
+        <em>before</em> the race.
+      </p>
+    </div>
+  </header>
+
+  <section class="summary wrap">
+    <div class="stat">
+      <div class="stat-n" id="stat-pwinner">—</div>
+      <div class="stat-label">Avg probability on the actual winner</div>
+      <div class="stat-sub">(random pick would be 5%)</div>
+    </div>
+    <div class="stat">
+      <div class="stat-n" id="stat-top1">—</div>
+      <div class="stat-label">Top pick actually won</div>
+      <div class="stat-sub"><span id="stat-top1-count">—</span> of <span id="stat-top1-total">—</span> races</div>
+    </div>
+    <div class="stat">
+      <div class="stat-n" id="stat-top3">—</div>
+      <div class="stat-label">Winner in top-3 picks</div>
+      <div class="stat-sub">Average winner rank: <span id="stat-avgrank">—</span></div>
+    </div>
+  </section>
+
+  <section class="wrap">
+    <h2>Pick a race</h2>
+    <div class="race-controls">
+      <select id="race-select"></select>
+      <div class="quick-pick">
+        <button data-slice="best"  id="btn-best">Most confident calls</button>
+        <button data-slice="worst" id="btn-worst">Biggest misses</button>
+        <button data-slice="random" id="btn-random">Random</button>
+      </div>
+    </div>
+    <div id="race-meta" class="race-meta"></div>
+    <div class="table-wrap">
+      <table id="race-table">
+        <thead>
+          <tr>
+            <th class="col-rank">#</th>
+            <th class="col-driver">Driver</th>
+            <th class="col-team">Team</th>
+            <th class="col-grid">Grid</th>
+            <th class="col-num">Ordinal</th>
+            <th class="col-num">Car rel.</th>
+            <th class="col-prob">P(win)</th>
+            <th class="col-prob">P(podium)</th>
+            <th class="col-prob">P(points)</th>
+            <th class="col-odds">Fair odds</th>
+            <th class="col-odds">Book odds <span class="small">(1.20)</span></th>
+            <th class="col-result">Actual</th>
+          </tr>
+        </thead>
+        <tbody id="race-body"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="wrap two-col">
+    <div>
+      <h2>Confidence vs reality</h2>
+      <p>
+        Top picks grouped by the model's own confidence — then checked
+        against whether they actually won.
+      </p>
+      <table id="bucket-table" class="compact">
+        <thead>
+          <tr>
+            <th>Model said</th>
+            <th>Races</th>
+            <th>Hit rate</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div>
+      <h2>Calibration</h2>
+      <p>
+        All (race, driver) probabilities binned. A perfectly calibrated
+        model's dots sit on the dashed line.
+      </p>
+      <svg id="calibration-plot" viewBox="0 0 400 400" class="plot"></svg>
+    </div>
+  </section>
+
+  <section class="wrap">
+    <h2>Model vs. simple baselines</h2>
+    <p>
+      Each baseline is calibrated with empirical rates from the training
+      window only — nothing peeks at the holdout.
+    </p>
+    <table id="methods-table" class="compact">
+      <thead>
+        <tr>
+          <th>Method</th>
+          <th>P(actual winner)</th>
+          <th>Top-1 hit</th>
+          <th>Top-3 hit</th>
+          <th>Avg rank</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      <p>
+        v1 back-test · holdout years
+        <span id="foot-years">—</span> ·
+        τ = <span id="foot-tau">—</span> ·
+        mode = <span id="foot-mode">—</span>
+      </p>
+      <p class="small">
+        Driver rating: OpenSkill Plackett–Luce with structural σ
+        inflations for team switches and inactivity.
+        Car reliability: Beta–Binomial posterior per (constructor, year).
+        Race predictor: softmax of <span class="mono">w<sub>driver</sub>·μ−3σ + w<sub>pace</sub>·pace + w<sub>grid</sub>·grid</span>,
+        5000 Monte-Carlo Gumbel draws with reliability censoring.
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+circuitId,circuit,circuitRef,n_finishes,n_races,spearman,track_type
+1,Albert Park Grand Prix Circuit,albert_park,321,23,0.6842901038694555,permanent
+2,Sepang International Circuit,sepang,287,18,0.72446825409376,permanent
+3,Bahrain International Circuit,bahrain,368,21,0.7334760589963534,permanent
+4,Circuit de Barcelona-Catalunya,catalunya,419,25,0.8036839071053642,permanent
+5,Istanbul Park,istanbul,164,9,0.7787150668373785,permanent
+6,Circuit de Monaco,monaco,364,24,0.7689854346183777,street
+7,Circuit Gilles Villeneuve,villeneuve,340,22,0.697048964901598,unclassified
+8,Circuit de Nevers Magny-Cours,magny_cours,144,9,0.8653977114024052,permanent
+9,Silverstone Circuit,silverstone,439,26,0.7571482562422681,permanent
+10,Hockenheimring,hockenheimring,218,14,0.6223023469414604,permanent
+11,Hungaroring,hungaroring,421,25,0.7768085940580824,permanent
+12,Valencia Street Circuit,valencia,99,5,0.7693780760320522,street
+13,Circuit de Spa-Francorchamps,spa,379,23,0.7162885089139288,permanent
+14,Autodromo Nazionale di Monza,monza,425,25,0.7496461151356943,permanent
+15,Marina Bay Street Circuit,marina_bay,250,15,0.7462473165436175,street
+17,Shanghai International Circuit,shanghai,308,17,0.804921432498167,permanent
+18,Autódromo José Carlos Pace,interlagos,385,24,0.7051630199403638,permanent
+19,Indianapolis Motor Speedway,indianapolis,95,8,0.6650439642893033,unclassified
+20,Nürburgring,nurburgring,189,12,0.756639834789913,permanent
+21,Autodromo Enzo e Dino Ferrari,imola,165,11,0.770634601764688,permanent
+22,Suzuka Circuit,suzuka,363,21,0.7761992038752585,permanent
+24,Yas Marina Circuit,yas_marina,292,16,0.777439788445949,permanent
+32,Autódromo Hermanos Rodríguez,rodriguez,155,9,0.8218185457490416,permanent
+34,Circuit Paul Ricard,ricard,72,4,0.8110271133632422,permanent
+35,Korean International Circuit,yeongam,76,4,0.8524736468074109,unclassified
+39,Circuit Park Zandvoort,zandvoort,69,4,0.7684902813347625,permanent
+68,Buddh International Circuit,buddh,60,3,0.8176832648785597,unclassified
+69,Circuit of the Americas,americas,199,12,0.7613170299434027,permanent
+70,Red Bull Ring,red_bull_ring,269,17,0.7425187115451872,permanent
+71,Sochi Autodrom,sochi,137,8,0.6772125616268033,unclassified
+73,Baku City Circuit,baku,124,8,0.7042053106876686,street
+77,Jeddah Corniche Circuit,jeddah,65,4,0.7901364629627983,street
+79,Miami International Autodrome,miami,54,3,0.7718658056627565,street

@@ -1,0 +1,8 @@
+Holdout ≥ 2022
+τ = 20.0
+n_races = 68
+
+log-loss  : model=1.4026   baseline=2.1036
+Brier     : model=0.6394   baseline=0.8268
+top-1 hit : model=0.515    baseline=0.338
+top-3 hit : model=0.838    baseline=0.765

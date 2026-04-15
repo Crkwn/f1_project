@@ -1,0 +1,91 @@
+driverId,year_before,year_after,team_before,team_after,margin_before,margin_after,shared_before,shared_after,driver,team_before_name,team_after_name
+1,2012,2013,1,131,-3.4615384615384617,-0.5625,13,16,Lewis Hamilton,McLaren,Mercedes
+3,2009,2010,3,131,-5.230769230769231,-2.7857142857142856,13,14,Nico Rosberg,Williams,Mercedes
+4,2006,2007,4,1,-2.6666666666666665,-0.13333333333333333,15,15,Fernando Alonso,Renault,McLaren
+4,2007,2008,1,4,-0.13333333333333333,-2.125,15,8,Fernando Alonso,McLaren,Renault
+4,2022,2023,214,117,1.0,-3.75,16,16,Fernando Alonso,Alpine F1 Team,Aston Martin
+5,2007,2008,4,1,0.0,1.5714285714285714,14,14,Heikki Kovalainen,Renault,McLaren
+5,2009,2010,1,205,1.8,-1.5714285714285714,10,7,Heikki Kovalainen,McLaren,Lotus
+8,2001,2002,15,1,-0.5714285714285714,2.25,7,4,Kimi Räikkönen,Sauber,McLaren
+8,2018,2019,6,51,-0.1875,-2.7777777777777777,16,18,Kimi Räikkönen,Ferrari,Alfa Romeo
+9,2009,2010,2,4,1.0,-5.75,12,12,Robert Kubica,BMW Sauber,Renault
+10,2011,2012,166,206,-0.6,-0.21428571428571427,10,14,Timo Glock,Virgin,Marussia
+13,2005,2006,15,6,-1.7692307692307692,1.9333333333333333,13,15,Felipe Massa,Sauber,Ferrari
+13,2013,2014,6,3,3.5,1.3333333333333333,16,15,Felipe Massa,Ferrari,Williams
+14,1995,1996,3,1,0.4,-0.3333333333333333,5,6,David Coulthard,Williams,McLaren
+15,1999,2000,20,17,-3.0,-0.8,6,5,Jarno Trulli,Prost,Jordan
+16,2013,2014,10,15,1.0833333333333333,0.0,12,10,Adrian Sutil,Force India,Sauber
+17,2006,2007,3,9,-2.75,-0.75,4,4,Mark Webber,Williams,Red Bull
+18,2000,2001,3,22,2.25,0.75,8,8,Jenson Button,Williams,Benetton
+18,2001,2002,22,4,0.75,1.3333333333333333,8,6,Jenson Button,Benetton,Renault
+18,2008,2009,11,23,-0.2,-0.6666666666666666,10,15,Jenson Button,Honda,Brawn
+18,2009,2010,23,1,-0.6666666666666666,0.5714285714285714,15,14,Jenson Button,Brawn,McLaren
+20,2008,2009,5,9,-6.2,-1.5,10,12,Sebastian Vettel,Toro Rosso,Red Bull
+20,2014,2015,9,6,1.7142857142857142,-1.2857142857142858,14,14,Sebastian Vettel,Red Bull,Ferrari
+20,2020,2021,6,117,3.5384615384615383,0.6470588235294118,13,17,Sebastian Vettel,Ferrari,Aston Martin
+21,1997,1998,17,22,1.6,0.25,5,8,Giancarlo Fisichella,Jordan,Benetton
+21,2001,2002,22,17,-0.75,-2.6,8,5,Giancarlo Fisichella,Benetton,Jordan
+21,2004,2005,15,4,-1.2307692307692308,2.230769230769231,13,13,Giancarlo Fisichella,Sauber,Renault
+21,2007,2008,4,10,-0.0,-0.2,14,5,Giancarlo Fisichella,Renault,Force India
+22,1999,2000,24,6,-2.1666666666666665,1.5555555555555556,6,9,Rubens Barrichello,Stewart,Ferrari
+22,2005,2006,6,11,2.6363636363636362,2.8333333333333335,11,12,Rubens Barrichello,Ferrari,Honda
+22,2008,2009,11,23,0.2,0.6666666666666666,10,15,Rubens Barrichello,Honda,Brawn
+22,2009,2010,23,3,0.6666666666666666,-1.2857142857142858,15,14,Rubens Barrichello,Brawn,Williams
+23,1998,1999,17,3,0.0,-5.333333333333333,6,3,Ralf Schumacher,Jordan,Williams
+30,1995,1996,22,6,-2.3,-2.6666666666666665,10,3,Michael Schumacher,Benetton,Ferrari
+33,2005,2006,17,13,-0.5384615384615384,0.6,13,5,Tiago Monteiro,Jordan,MF1
+44,2002,2003,16,7,1.0,0.14285714285714285,5,7,Olivier Panis,BAR,Toyota
+49,1996,1997,15,3,-1.25,2.0,4,8,Heinz-Harald Frentzen,Sauber,Williams
+49,1998,1999,3,17,1.5555555555555556,-3.8,9,5,Heinz-Harald Frentzen,Williams,Jordan
+55,1995,1996,6,22,-2.5714285714285716,-2.6,7,5,Jean Alesi,Ferrari,Benetton
+56,1995,1996,17,6,0.6,2.6666666666666665,5,3,Eddie Irvine,Jordan,Ferrari
+65,1995,1996,22,15,2.3,1.25,10,4,Johnny Herbert,Benetton,Sauber
+65,1998,1999,15,24,0.16666666666666666,2.1666666666666665,6,6,Johnny Herbert,Sauber,Stewart
+71,1996,1997,3,21,-0.8,0.6,10,5,Damon Hill,Williams,Arrows
+71,1997,1998,21,17,0.6,-0.0,5,6,Damon Hill,Arrows,Jordan
+77,1985,1986,21,22,1.8333333333333333,0.0,6,3,Gerhard Berger,Arrows,Benetton
+77,1986,1987,22,6,0.0,-1.75,3,4,Gerhard Berger,Benetton,Ferrari
+77,1992,1993,1,6,0.2,3.6666666666666665,5,3,Gerhard Berger,McLaren,Ferrari
+77,1995,1996,6,22,2.5714285714285716,2.6,7,5,Gerhard Berger,Ferrari,Benetton
+84,1991,1992,34,22,1.5,0.14285714285714285,4,7,Martin Brundle,Brabham,Benetton
+84,1992,1993,22,27,0.14285714285714285,0.8333333333333334,7,6,Martin Brundle,Benetton,Ligier
+95,1984,1985,32,3,0.5,-1.6666666666666667,4,6,Nigel Mansell,Team Lotus,Williams
+95,1990,1991,6,3,2.375,-1.0,8,7,Nigel Mansell,Ferrari,Williams
+102,1987,1988,32,1,-5.0,0.3333333333333333,8,12,Ayrton Senna,Team Lotus,McLaren
+105,1983,1984,25,6,0.6666666666666666,-2.0,3,6,Michele Alboreto,Tyrrell,Ferrari
+110,1981,1982,1,51,3.0,-0.3333333333333333,4,3,Andrea de Cesaris,McLaren,Alfa Romeo
+117,1983,1984,4,1,-2.3333333333333335,0.2857142857142857,6,7,Alain Prost,Renault,McLaren
+117,1989,1990,1,6,0.375,-2.375,8,8,Alain Prost,McLaren,Ferrari
+119,1992,1993,3,22,1.6666666666666667,5.166666666666667,9,6,Riccardo Patrese,Williams,Benetton
+123,1988,1989,22,3,-2.0,-0.6666666666666666,6,6,Thierry Boutsen,Benetton,Williams
+123,1990,1991,3,27,-2.625,1.4,8,5,Thierry Boutsen,Williams,Ligier
+140,1986,1987,6,1,-1.25,-0.0,4,10,Stefan Johansson,Ferrari,McLaren
+152,1982,1983,51,53,0.3333333333333333,3.0,3,4,Bruno Giacomelli,Alfa Romeo,Toleman
+154,2015,2016,208,210,-2.142857142857143,-1.1538461538461537,7,13,Romain Grosjean,Lotus F1,Haas F1 Team
+158,1982,1983,27,4,-2.6666666666666665,2.3333333333333335,3,6,Eddie Cheever,Ligier,Renault
+163,1982,1983,4,6,5.0,1.0,3,7,René Arnoux,Renault,Ferrari
+177,1985,1986,3,1,1.6666666666666667,2.4285714285714284,6,7,Keke Rosberg,Williams,McLaren
+202,1980,1981,27,6,-3.3333333333333335,4.75,6,4,Didier Pironi,Ligier,Ferrari
+807,2012,2013,10,15,-0.8823529411764706,-2.8666666666666667,17,15,Nico Hülkenberg,Force India,Sauber
+807,2013,2014,15,10,-2.8666666666666667,-0.8,15,15,Nico Hülkenberg,Sauber,Force India
+813,2013,2014,3,208,-0.2857142857142857,0.4,14,10,Pastor Maldonado,Williams,Lotus F1
+815,2012,2013,15,1,-1.1,1.0526315789473684,10,19,Sergio Pérez,Sauber,McLaren
+815,2013,2014,1,10,1.0526315789473684,0.8,19,15,Sergio Pérez,McLaren,Force India
+815,2018,2019,10,211,1.0714285714285714,-2.7058823529411766,14,17,Sergio Pérez,Force India,Racing Point
+817,2013,2014,5,9,-0.5833333333333334,-1.7142857142857142,12,14,Daniel Ricciardo,Toro Rosso,Red Bull
+817,2018,2019,9,4,0.0,-0.7142857142857143,11,14,Daniel Ricciardo,Red Bull,Renault
+817,2020,2021,4,1,-0.8333333333333334,1.5,12,20,Daniel Ricciardo,Renault,McLaren
+819,2012,2013,206,207,0.21428571428571427,-1.0,14,13,Charles Pic,Marussia,Caterham
+822,2016,2017,3,131,-1.1875,0.15789473684210525,16,19,Valtteri Bottas,Williams,Mercedes
+822,2021,2022,131,51,2.411764705882353,-1.8461538461538463,17,13,Valtteri Bottas,Mercedes,Alfa Romeo
+822,2023,2024,51,15,-0.47058823529411764,0.25,17,20,Valtteri Bottas,Alfa Romeo,Sauber
+825,2016,2017,4,210,-0.75,-0.23076923076923078,12,13,Kevin Magnussen,Renault,Haas F1 Team
+826,2014,2015,5,9,1.1818181818181819,-0.42857142857142855,11,14,Daniil Kvyat,Toro Rosso,Red Bull
+832,2018,2019,4,1,1.3333333333333333,-1.9230769230769231,12,13,Carlos Sainz,Renault,McLaren
+832,2020,2021,1,6,-0.5384615384615384,0.3,13,20,Carlos Sainz,McLaren,Ferrari
+839,2020,2021,4,214,0.8333333333333334,-0.2222222222222222,12,18,Esteban Ocon,Renault,Alpine F1 Team
+840,2018,2019,3,211,-0.5294117647058824,2.7058823529411766,17,17,Lance Stroll,Williams,Racing Point
+842,2022,2023,213,214,-1.6153846153846154,0.75,13,16,Pierre Gasly,AlphaTauri,Alpine F1 Team
+844,2018,2019,15,6,-1.5833333333333333,-1.1764705882352942,12,17,Charles Leclerc,Sauber,Ferrari
+847,2021,2022,3,131,-2.8125,-1.1,16,20,George Russell,Williams,Mercedes
+855,2023,2024,51,15,0.47058823529411764,-0.25,17,20,Guanyu Zhou,Alfa Romeo,Sauber

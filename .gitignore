@@ -1,0 +1,27 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Virtual envs ---
+.venv/
+venv/
+env/
+.env
+
+# --- OS / editor ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# --- Project: regenerable artefacts ---
+# Ergast API cache — rebuilt by scripts/data/fetch_api.py on demand
+data/cache/
+# Pickled model state — rebuilt by scripts/model/train_*.py
+data/processed/*.pkl
+# Scratch / logs
+*.log
+/tmp/
