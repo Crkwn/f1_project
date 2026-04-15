@@ -27,7 +27,7 @@ python scripts/web/build_site.py
 ```
 
 The site will be live at
-   `https://crkwn.github.io/<repo-name>/`.
+   `https://crkwn.github.io/f1_project/`.
 
 ## What the site shows
 
