@@ -26,22 +26,8 @@ python scripts/model/backtest.py
 python scripts/web/build_site.py
 ```
 
-Commit the updated `docs/data.json` and push — the site updates.
-
-## Deploying on GitHub Pages
-
-1. Push this repo to GitHub.
-2. In the repo → **Settings → Pages**:
-   - **Source**: Deploy from a branch
-   - **Branch**: `main`, folder `/docs`
-3. Wait ~30 seconds. The site will be live at
-   `https://<your-username>.github.io/<repo-name>/`.
-
-Alternative: set the source to the `gh-pages` branch and push
-`docs/*` there if you'd rather not ship the whole project to the
-public branch. For a demo site that's already in `/docs` and shares
-a repo with the rest of the code, the `/docs` option is the
-lowest-friction choice.
+The site will be live at
+   `https://crkwn.github.io/<repo-name>/`.
 
 ## What the site shows
 
