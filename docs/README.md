@@ -1,30 +1,9 @@
 # F1 Win-Probability Model — demo site
 
-This directory is a **self-contained static site** you can serve on
-GitHub Pages. It reads the back-test output from `reports/backtest/`
+This directory is a **self-contained static site**. 
+It reads the back-test output from `reports/backtest/`
 (converted to a single `data.json`) and renders it as an interactive
 demo.
-
-## Preview it locally
-
-```bash
-python3 -m http.server 8765 --directory docs
-# then open http://localhost:8765
-```
-
-Any HTTP server works — GitHub Pages, Netlify, S3, etc. No build step
-and no framework; it's one HTML file, one CSS file, one JS file, one
-JSON file.
-
-## Regenerate after a new back-test run
-
-```bash
-# 1. Re-run the back-test (writes fresh predictions + metrics)
-python scripts/model/backtest.py
-
-# 2. Rebuild this site's data.json from the new artefacts
-python scripts/web/build_site.py
-```
 
 The site will be live at
    `https://crkwn.github.io/f1_project/`.
